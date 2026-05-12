@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#1a1612">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Bach">
+  <title>Bach — Explorateur des œuvres chorales</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <div id="app">
+    <!-- En-tête -->
+    <header class="header">
+      <button id="calendar-toggle" class="calendar-toggle" aria-label="Calendrier liturgique">
+        <span class="cal-icon">☉</span>
+      </button>
+      <h1 class="title">Bach</h1>
+      <button id="home-button" class="home-button" aria-label="Accueil">⌂</button>
+    </header>
+
+    <!-- Panneau calendrier liturgique (caché par défaut) -->
+    <aside id="calendar-panel" class="calendar-panel" hidden>
+      <div class="calendar-content">
+        <h2 class="calendar-title">Calendrier liturgique</h2>
+        <div id="calendar-seasons"></div>
+      </div>
+    </aside>
+
+    <!-- Écran principal -->
+    <main class="main">
+      <!-- Écran d'accueil : recherche -->
+      <section id="screen-home" class="screen">
+        <div class="search-block">
+          <p class="search-label">Cantates, Passions, Messes, Motets, Oratorios</p>
+          <input
+            id="search-input"
+            type="text"
+            class="search-input"
+            placeholder="BWV 244, Saint Matthieu, Magnificat…"
+            autocomplete="off"
+            autocorrect="off"
+            autocapitalize="off"
+            spellcheck="false">
+          <button id="search-button" class="search-button">Chercher</button>
+          <p class="search-hint">
+            Par numéro BWV, titre allemand ou français, ou occasion liturgique.
+          </p>
+        </div>
+      </section>
+
+      <!-- Écran de chargement -->
+      <section id="screen-loading" class="screen" hidden>
+        <div class="loading-block">
+          <div class="loading-spinner"></div>
+          <p id="loading-message" class="loading-message">Lecture des cantates en cours</p>
+          <p id="loading-label" class="loading-label"></p>
+        </div>
+      </section>
+
+      <!-- Écran d'erreur -->
+      <section id="screen-error" class="screen" hidden>
+        <div class="error-block">
+          <div class="error-icon">⚠</div>
+          <p id="error-message" class="error-message"></p>
+          <button id="error-back" class="back-button">← Retour</button>
+        </div>
+      </section>
+
+      <!-- Écran œuvre -->
+      <section id="screen-work" class="screen" hidden>
+        <div id="work-content" class="work-content"></div>
+      </section>
+    </main>
+  </div>
+
+  <script src="/app.js"></script>
+</body>
+</html>
