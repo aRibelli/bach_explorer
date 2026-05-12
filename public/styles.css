@@ -1,0 +1,372 @@
+/* ═══════════════════════════════════════════════════════════════
+   BACH EXPLORER — Styles
+   Optimisé pour lecture en concert, faible luminosité, iPhone
+   ═══════════════════════════════════════════════════════════════ */
+
+:root {
+  --bg-dark:        #1a1612;
+  --bg-paper:       #221d18;
+  --bg-elevated:    #2a241e;
+
+  --text-primary:   #f5efe2;  /* français : crème lumineux */
+  --text-german:    #c8b48a;  /* allemand : ambre retenu */
+  --text-meta:      #8a8070;  /* méta : sépia discret */
+  --text-label:     #6a6050;
+
+  --gold:           #c8922a;
+  --gold-glow:      #e8a832;
+  --border:         #3a322a;
+  --border-soft:    #2a241e;
+
+  --type-choeur:    #e8a832;
+  --type-aria:      #f5efe2;
+  --type-recit:     #c8b48a;
+  --type-choral:    #9b7de8;
+  --type-duo:       #f5a87e;
+}
+
+* {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg-dark);
+  color: var(--text-primary);
+  font-family: Georgia, "Times New Roman", serif;
+  min-height: 100vh;
+  min-height: 100dvh;
+  -webkit-font-smoothing: antialiased;
+  overscroll-behavior: none;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+  background: transparent;
+  border: none;
+  color: inherit;
+}
+
+input {
+  font-family: inherit;
+}
+
+/* ───────────────────────────────────────────────
+   EN-TÊTE
+   ─────────────────────────────────────────────── */
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: var(--bg-dark);
+  border-bottom: 1px solid var(--border-soft);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 18px;
+  padding-top: max(14px, env(safe-area-inset-top));
+}
+
+.title {
+  margin: 0;
+  font-family: Georgia, serif;
+  font-size: 22px;
+  font-weight: normal;
+  letter-spacing: 0.05em;
+  color: var(--gold);
+}
+
+.calendar-toggle,
+.home-button {
+  width: 48px;
+  height: 48px;
+  font-size: 22px;
+  color: var(--gold);
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.calendar-toggle:active,
+.home-button:active {
+  background: var(--bg-elevated);
+}
+
+/* ───────────────────────────────────────────────
+   PANNEAU CALENDRIER LITURGIQUE
+   ─────────────────────────────────────────────── */
+.calendar-panel {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: min(320px, 90vw);
+  height: 100vh;
+  height: 100dvh;
+  background: var(--bg-paper);
+  border-right: 1px solid var(--border);
+  z-index: 100;
+  overflow-y: auto;
+  padding: 24px 22px;
+  padding-top: max(24px, env(safe-area-inset-top));
+  transform: translateX(-100%);
+  transition: transform 0.25s ease;
+  -webkit-overflow-scrolling: touch;
+}
+
+.calendar-panel[data-open="true"] {
+  transform: translateX(0);
+}
+
+.calendar-title {
+  margin: 0 0 22px;
+  font-family: Georgia, serif;
+  font-size: 18px;
+  font-weight: normal;
+  color: var(--gold);
+  letter-spacing: 0.05em;
+}
+
+.season-block {
+  margin-bottom: 22px;
+}
+
+.season-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--border-soft);
+}
+
+.season-sigil {
+  font-size: 16px;
+  font-weight: bold;
+  width: 22px;
+  text-align: center;
+}
+
+.season-name {
+  font-family: Georgia, serif;
+  font-size: 14px;
+  color: var(--text-primary);
+  letter-spacing: 0.03em;
+}
+
+.occasion-button {
+  display: block;
+  width: 100%;
+  text-align: left;
+  padding: 11px 8px;
+  border-radius: 4px;
+  font-family: Georgia, serif;
+  font-size: 13px;
+  color: var(--text-meta);
+  line-height: 1.5;
+  min-height: 46px;
+}
+
+.occasion-button:active {
+  background: var(--bg-elevated);
+  color: var(--text-primary);
+}
+
+.occasion-bwvs {
+  display: inline-block;
+  margin-left: 6px;
+  font-family: "Courier New", monospace;
+  font-size: 11px;
+  color: var(--text-label);
+}
+
+/* Overlay quand le panneau est ouvert */
+.calendar-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.55);
+  z-index: 90;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.25s ease;
+}
+
+.calendar-overlay[data-visible="true"] {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+/* ───────────────────────────────────────────────
+   ÉCRANS
+   ─────────────────────────────────────────────── */
+.main {
+  min-height: calc(100vh - 70px);
+  min-height: calc(100dvh - 70px);
+}
+
+.screen {
+  padding: 32px 22px;
+  padding-bottom: max(32px, env(safe-area-inset-bottom));
+}
+
+/* ───────────────────────────────────────────────
+   RECHERCHE
+   ─────────────────────────────────────────────── */
+.search-block {
+  max-width: 520px;
+  margin: 40px auto 0;
+}
+
+.search-label {
+  text-align: center;
+  font-family: Georgia, serif;
+  font-style: italic;
+  font-size: 14px;
+  color: var(--text-meta);
+  margin: 0 0 28px;
+  letter-spacing: 0.02em;
+}
+
+.search-input {
+  width: 100%;
+  background: var(--bg-paper);
+  border: 1px solid var(--border);
+  color: var(--text-primary);
+  padding: 14px 16px;
+  font-size: 16px;     /* 16px : empêche iOS de zoomer au focus */
+  border-radius: 4px;
+  font-family: Georgia, serif;
+  outline: none;
+  margin-bottom: 14px;
+}
+
+.search-input:focus {
+  border-color: var(--gold);
+}
+
+.search-button {
+  width: 100%;
+  background: var(--gold);
+  color: var(--bg-dark);
+  font-size: 14px;
+  font-family: system-ui, -apple-system, sans-serif;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 14px 20px;
+  border-radius: 4px;
+  font-weight: 600;
+  min-height: 50px;
+}
+
+.search-button:active {
+  background: var(--gold-glow);
+}
+
+.search-button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.search-hint {
+  text-align: center;
+  font-family: Georgia, serif;
+  font-style: italic;
+  font-size: 12px;
+  color: var(--text-label);
+  margin: 22px 0 0;
+  line-height: 1.6;
+}
+
+/* ───────────────────────────────────────────────
+   CHARGEMENT
+   ─────────────────────────────────────────────── */
+.loading-block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 80px;
+}
+
+.loading-spinner {
+  width: 32px;
+  height: 32px;
+  border: 2px solid var(--border);
+  border-top-color: var(--gold);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+  margin-bottom: 26px;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+.loading-message {
+  font-family: Georgia, serif;
+  font-style: italic;
+  font-size: 15px;
+  color: var(--text-meta);
+  margin: 0 0 8px;
+}
+
+.loading-label {
+  font-family: Georgia, serif;
+  font-style: italic;
+  font-size: 13px;
+  color: var(--text-label);
+  margin: 0;
+}
+
+/* ───────────────────────────────────────────────
+   ERREUR
+   ─────────────────────────────────────────────── */
+.error-block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 80px;
+  max-width: 440px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.error-icon {
+  color: #e05050;
+  font-size: 32px;
+  margin-bottom: 18px;
+}
+
+.error-message {
+  font-family: Georgia, serif;
+  font-style: italic;
+  font-size: 15px;
+  color: var(--text-meta);
+  line-height: 1.8;
+  margin: 0 0 26px;
+}
+
+.back-button {
+  border: 1px solid rgba(200, 146, 42, 0.4);
+  color: var(--gold);
+  padding: 11px 26px;
+  border-radius: 4px;
+  font-size: 13px;
+  font-family: system-ui, -apple-system, sans-serif;
+  letter-spacing: 0.05em;
+  min-height: 44px;
+}
+
+.back-button:active {
+  background: var(--bg-elevated);
+}
+
+/* ───────────────────────────────────────────────
+   ŒUVRE — Affichage principal
+   ─────────────────────────────────────────────── */
