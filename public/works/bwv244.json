@@ -1,0 +1,563 @@
+{
+  "work": {
+    "bwv": "BWV 244",
+    "titleGerman": "Matthäus-Passion",
+    "titleFrench": "Passion selon saint Matthieu",
+    "metadata": {
+      "date": "Créée le Vendredi saint 11 avril 1727 (selon l'hypothèse aujourd'hui retenue, ou 15 avril 1729 selon l'hypothèse plus ancienne). Version définitive révisée en 1736, dont le manuscrit autographe — l'un des plus soigneusement calligraphiés de Bach — fait foi.",
+      "place": "Leipzig, église Saint-Thomas.",
+      "occasion": "Vêpres du Vendredi saint. Seconde Passion conservée de Bach et l'une des œuvres les plus monumentales du répertoire occidental.",
+      "librettist": "Texte évangélique : Matthieu 26-27 (traduction de Luther). Récitatifs poétiques, arias et chœur d'ouverture sur des poèmes de Picander (Christian Friedrich Henrici). Les chorals sont des cantiques luthériens traditionnels, parmi lesquels reviennent à plusieurs reprises « Herzliebster Jesu » de Heermann et « O Haupt voll Blut und Wunden » de Gerhardt.",
+      "scoring": "Double chœur à quatre voix et double orchestre symétriques (chacun : deux flûtes traversières, deux hautbois aussi hautbois d'amore et hautbois da caccia, cordes, basse continue), plus un chœur de sopranos in ripieno pour le choral du chœur d'ouverture et celui qui clôt la première partie. Solistes : Évangéliste (ténor), Jésus (basse, avec halo de cordes), soprano, alto, ténor, basse, et plusieurs rôles secondaires (Judas, Pierre, Pilate, témoins, servantes, grand prêtre). Viole de gambe obligée dans deux airs.",
+      "theological": "Bach et Picander suivent le récit de Matthieu, le plus narratif et le plus contemplatif des évangiles de la Passion. À la différence de la Passion selon saint Jean qui voit un Christ triomphal aller vers son heure, la Matthäus médite le Christ souffrant, abandonné, dont l'humanité est exposée jusqu'au cri de déréliction. Les arias et récitatifs accompagnés, sur des textes de Picander, sont des stations d'arrêt méditatives où l'âme du fidèle prend la mesure du sacrifice, s'identifie au pécheur, se reconnaît dans la trahison de Pierre. Les chorals — dont le « O Haupt voll Blut und Wunden » de Paul Gerhardt qui revient cinq fois sur la mélodie de Hassler — incarnent la communauté assemblée qui répond, console, déplore.",
+      "musical": "Œuvre cathédrale écrite pour double chœur et double orchestre disposés en miroir, la Matthäus déploie une polyphonie spatiale d'une ampleur sans équivalent. Le chœur d'ouverture en mi mineur, sur une basse obstinée obsédante, fait dialoguer les deux chœurs (« Sehet — Wen? — den Bräutigam ») tandis qu'un troisième groupe — les sopranos in ripieno — entonne en cantus firmus le choral « O Lamm Gottes, unschuldig ». Les paroles du Christ sont systématiquement entourées d'un halo de cordes, exception faite du « Eli, Eli, lama asabthani », où ce halo disparaît au moment de la déréliction. Les arias sollicitent un coloris instrumental d'une rare invention : viole de gambe obligée dans « Geduld » et « Komm, süßes Kreuz », deux hautbois da caccia plaintifs dans « Sehet, Jesus hat die Hand », flûte et hautbois en duo dans « Aus Liebe ». Le grand choral « O Mensch, bewein dein Sünde groß » qui referme la première partie est une des pages chorales les plus vastes de Bach. L'œuvre s'achève dans le tombeau, avec le chœur en si mineur « Wir setzen uns mit Tränen nieder », berceuse douloureuse d'une infinie tendresse.",
+      "interpretations": "Karl Richter (Münchener Bach-Chor, Archiv 1958) en a donné une lecture monumentale et habitée, longtemps tenue pour référence. Otto Klemperer (Philharmonia, EMI 1961) reste un sommet de gravité luthérienne. Nikolaus Harnoncourt (Concentus Musicus Wien, Teldec 1970, puis 2000) ouvre la voie historiquement informée. Philippe Herreweghe (Collegium Vocale Gent, Harmonia Mundi, trois enregistrements) fait référence par la transparence et la justesse spirituelle. John Eliot Gardiner (Monteverdi Choir, Archiv 1988, puis SDG 2016) privilégie le théâtre et l'incarnation. Masaaki Suzuki (Bach Collegium Japan, BIS) conjugue rigueur et intériorité. René Jacobs (RIAS, Harmonia Mundi 2013) en propose une lecture plus rhétorique, où chaque turba prend un relief saisissant."
+    },
+    "movements": [
+      {
+        "number": "1",
+        "type": "Chœur avec choral",
+        "voice": "Double chœur SATB + sopranos in ripieno",
+        "scoring": "double orchestre : flûtes, hautbois, cordes, continuo",
+        "textGerman": "Chor I: Kommt, ihr Töchter, helft mir klagen,\nSehet — Chor II: Wen? — Chor I: den Bräutigam,\nSeht ihn — Chor II: Wie? — Chor I: als wie ein Lamm!\n\nChoral (Soprano in ripieno):\nO Lamm Gottes, unschuldig\nAm Stamm des Kreuzes geschlachtet,\n\nChor I: Sehet — Chor II: Was? — Chor I: seht die Geduld,\n\nChoral: Allzeit erfunden geduldig,\nWiewohl du warest verachtet.\n\nChor I: Seht — Chor II: Wohin? — Chor I: auf unsre Schuld;\n\nChoral: All Sünd hast du getragen,\nSonst müßten wir verzagen.\n\nChor I: Sehet ihn aus Lieb und Huld\nHolz zum Kreuze selber tragen!\n\nChoral: Erbarm dich unser, o Jesu!",
+        "textFrench": "Chœur I : Venez, ô filles, aidez-moi à pleurer,\nVoyez — Chœur II : Qui ? — Chœur I : l'Époux,\nRegardez-le — Chœur II : Comment ? — Chœur I : comme un agneau !\n\nChoral (Sopranos in ripieno) :\nÔ Agneau de Dieu, innocent,\nÉgorgé au bois de la croix,\n\nChœur I : Voyez — Chœur II : Quoi ? — Chœur I : voyez sa patience,\n\nChoral : Toujours trouvé patient,\nBien que tu fusses méprisé.\n\nChœur I : Regardez — Chœur II : Où ? — Chœur I : nos péchés ;\n\nChoral : Tu as porté tous les péchés,\nSans quoi nous serions perdus.\n\nChœur I : Voyez-le, par amour et par grâce,\nPorter lui-même le bois de la croix !\n\nChoral : Aie pitié de nous, ô Jésus !"
+      },
+      {
+        "number": "2",
+        "type": "Récitatif",
+        "voice": "Évangéliste, Jésus",
+        "scoring": "continuo (Jésus accompagné par les cordes)",
+        "textGerman": "Evangelist: Da Jesus diese Rede vollendet hatte, sprach er zu seinen Jüngern:\nJesus: Ihr wisset, dass nach zweien Tagen Ostern wird, und des Menschen Sohn wird überantwortet werden, dass er gekreuziget werde.",
+        "textFrench": "L'Évangéliste : Lorsque Jésus eut achevé tous ces discours, il dit à ses disciples :\nJésus : Vous savez que la Pâque a lieu dans deux jours, et que le Fils de l'homme sera livré pour être crucifié."
+      },
+      {
+        "number": "3",
+        "type": "Choral",
+        "voice": "SATB",
+        "scoring": "flûtes, hautbois, cordes, continuo",
+        "textGerman": "Herzliebster Jesu, was hast du verbrochen,\nDass man ein solch scharf Urteil hat gesprochen?\nWas ist die Schuld, in was für Missetaten\nBist du geraten?",
+        "textFrench": "Très cher Jésus, qu'as-tu donc commis\nPour qu'un si dur jugement ait été prononcé ?\nQuelle est la faute, dans quels méfaits\nT'es-tu trouvé pris ?"
+      },
+      {
+        "number": "4",
+        "type": "Récitatif et chœurs (turbae)",
+        "voice": "Évangéliste, Jésus, double chœur",
+        "scoring": "flûtes, hautbois, cordes, continuo",
+        "textGerman": "Evangelist: Da versammleten sich die Hohenpriester und Schriftgelehrten und die Ältesten im Volk in dem Palast des Hohenpriesters, der da hieß Kaiphas, und hielten Rat, wie sie Jesum mit Listen griffen und töteten. Sie sprachen aber:\nChor I & II: Ja nicht auf das Fest, auf dass nicht ein Aufruhr werde im Volk.\nEvangelist: Da nun Jesus war zu Bethanien, im Hause Simonis des Aussätzigen, trat zu ihm ein Weib, das hatte ein Glas mit köstlichem Wasser und goss es auf sein Haupt, da er zu Tische saß. Da das seine Jünger sahen, wurden sie unwillig und sprachen:\nChor I: Wozu dienet dieser Unrat? Dieses Wasser hätte mögen teuer verkauft und den Armen gegeben werden.\nEvangelist: Da das Jesus merkete, sprach er zu ihnen:\nJesus: Was bekümmert ihr das Weib? Sie hat ein gut Werk an mir getan. Ihr habet allezeit Armen bei euch, mich aber habt ihr nicht allezeit. Dass sie dies Wasser hat auf meinen Leib gegossen, hat sie getan, dass man mich begraben wird. Wahrlich, ich sage euch: Wo dies Evangelium geprediget wird in der ganzen Welt, da wird man auch sagen zu ihrem Gedächtnis, was sie getan hat.",
+        "textFrench": "L'Évangéliste : Alors les grands prêtres, les scribes et les anciens du peuple se réunirent dans le palais du grand prêtre, appelé Caïphe, et tinrent conseil pour s'emparer de Jésus par ruse et le faire mourir. Mais ils disaient :\nChœurs I & II : Pas pendant la fête, afin qu'il n'y ait pas de tumulte dans le peuple.\nL'Évangéliste : Comme Jésus était à Béthanie, dans la maison de Simon le lépreux, une femme s'approcha de lui : elle tenait un vase d'albâtre rempli d'un parfum de grand prix, qu'elle répandit sur sa tête tandis qu'il était à table. Voyant cela, les disciples s'indignèrent et dirent :\nChœur I : À quoi bon ce gaspillage ? On aurait pu vendre ce parfum très cher et en donner le prix aux pauvres.\nL'Évangéliste : Jésus, s'en apercevant, leur dit :\nJésus : Pourquoi faites-vous de la peine à cette femme ? Elle a fait une bonne œuvre à mon égard. Les pauvres, vous les avez toujours avec vous, mais moi, vous ne m'avez pas toujours. En répandant ce parfum sur mon corps, c'est pour ma sépulture qu'elle l'a fait. En vérité, je vous le dis : partout où sera proclamé cet Évangile, dans le monde entier, on racontera aussi, en mémoire d'elle, ce qu'elle a fait."
+      },
+      {
+        "number": "5",
+        "type": "Récitatif",
+        "voice": "Alto",
+        "scoring": "2 flûtes, continuo",
+        "textGerman": "Du lieber Heiland du,\nWenn deine Jünger töricht streiten,\nDass dieses fromme Weib\nMit Salben deinen Leib\nZum Grabe will bereiten,\nSo lasse mir inzwischen zu,\nVon meiner Augen Tränenflüssen\nEin Wasser auf dein Haupt zu gießen!",
+        "textFrench": "Ô toi, mon cher Sauveur,\nTandis que tes disciples disputent follement\nQu'une femme pieuse,\nPar ses parfums, prépare ton corps\nÀ la sépulture,\nPermets, pendant ce temps,\nQue moi aussi, des flots des larmes de mes yeux,\nJe répande une eau sur ta tête !"
+      },
+      {
+        "number": "6",
+        "type": "Aria",
+        "voice": "Alto",
+        "scoring": "2 flûtes, cordes, continuo",
+        "textGerman": "Buß und Reu,\nBuß und Reu\nKnirscht das Sündenherz entzwei,\nDass die Tropfen meiner Zähren\nAngenehme Spezerei,\nTreuer Jesu, dir gebären.",
+        "textFrench": "Pénitence et repentir,\nPénitence et repentir\nBrisent en deux le cœur du pécheur,\nAfin que les gouttes de mes larmes\nT'offrent, fidèle Jésus,\nUn parfum agréable."
+      },
+      {
+        "number": "7",
+        "type": "Récitatif",
+        "voice": "Évangéliste, Judas",
+        "scoring": "continuo",
+        "textGerman": "Evangelist: Da ging hin der Zwölfen einer, mit Namen Judas Ischarioth, zu den Hohenpriestern und sprach:\nJudas: Was wollt ihr mir geben? Ich will ihn euch verraten.\nEvangelist: Und sie boten ihm dreißig Silberlinge. Und von dem an suchte er Gelegenheit, dass er ihn verriete.",
+        "textFrench": "L'Évangéliste : Alors l'un des Douze, nommé Judas Iscariote, alla trouver les grands prêtres et dit :\nJudas : Que voulez-vous me donner ? Je vous le livrerai.\nL'Évangéliste : Et ils lui comptèrent trente pièces d'argent. Dès lors, il cherchait une occasion favorable pour le livrer."
+      },
+      {
+        "number": "8",
+        "type": "Aria",
+        "voice": "Soprano",
+        "scoring": "2 flûtes, cordes, continuo",
+        "textGerman": "Blute nur, du liebes Herz!\nAch! ein Kind, das du erzogen,\nDas an deiner Brust gesogen,\nDroht den Pfleger zu ermorden,\nDenn es ist zur Schlange worden.",
+        "textFrench": "Saigne, saigne donc, ô cœur aimant !\nAh ! l'enfant que tu as élevé,\nQui à ton sein a tété,\nMenace de tuer celui qui l'a nourri,\nCar il est devenu serpent."
+      },
+      {
+        "number": "9",
+        "type": "Récitatif et chœur (turba)",
+        "voice": "Évangéliste, Jésus, double chœur",
+        "scoring": "flûtes, hautbois, cordes, continuo",
+        "textGerman": "Evangelist: Aber am ersten Tage der süßen Brot traten die Jünger zu Jesu und sprachen zu ihm:\nChor I: Wo willst du, dass wir dir bereiten, das Osterlamm zu essen?\nEvangelist: Er sprach:\nJesus: Gehet hin in die Stadt zu einem und sprecht zu ihm: Der Meister lässt dir sagen: Meine Zeit ist hier, ich will bei dir die Ostern halten mit meinen Jüngern.\nEvangelist: Und die Jünger taten, wie ihnen Jesus befohlen hatte, und bereiteten das Osterlamm. Und am Abend satzte er sich zu Tische mit den Zwölfen. Und da sie aßen, sprach er:\nJesus: Wahrlich, ich sage euch: Einer unter euch wird mich verraten.\nEvangelist: Und sie wurden sehr betrübt und huben an, ein jeglicher unter ihnen, und sagten zu ihm:\nChor I: Herr, bin ich's?",
+        "textFrench": "L'Évangéliste : Le premier jour des Azymes, les disciples vinrent à Jésus et lui dirent :\nChœur I : Où veux-tu que nous préparions pour toi le repas de la Pâque ?\nL'Évangéliste : Il répondit :\nJésus : Allez à la ville chez un tel et dites-lui : Le Maître te fait dire : Mon temps est proche, je veux célébrer la Pâque chez toi avec mes disciples.\nL'Évangéliste : Les disciples firent comme Jésus le leur avait ordonné et préparèrent la Pâque. Le soir venu, il se mit à table avec les Douze. Pendant qu'ils mangeaient, il dit :\nJésus : En vérité, je vous le dis : l'un de vous me livrera.\nL'Évangéliste : Profondément attristés, ils se mirent chacun à lui demander :\nChœur I : Seigneur, serait-ce moi ?"
+      },
+      {
+        "number": "10",
+        "type": "Choral",
+        "voice": "SATB",
+        "scoring": "flûtes, hautbois, cordes, continuo",
+        "textGerman": "Ich bin's, ich sollte büßen,\nAn Händen und an Füßen\nGebunden in der Höll.\nDie Geißeln und die Banden\nUnd was du ausgestanden,\nDas hat verdienet meine Seel.",
+        "textFrench": "C'est moi, c'est moi qui devrais expier,\nAux mains et aux pieds\nEnchaîné dans l'enfer.\nLes fouets et les liens,\nEt tout ce que tu as subi,\nC'est mon âme qui l'a mérité."
+      },
+      {
+        "number": "11",
+        "type": "Récitatif",
+        "voice": "Évangéliste, Jésus, Judas",
+        "scoring": "continuo (Jésus avec halo de cordes)",
+        "textGerman": "Evangelist: Er antwortete und sprach:\nJesus: Der mit der Hand mit mir in die Schüssel tauchet, der wird mich verraten. Des Menschen Sohn gehet zwar dahin, wie von ihm geschrieben stehet; doch wehe dem Menschen, durch welchen des Menschen Sohn verraten wird! Es wäre ihm besser, dass derselbige Mensch noch nie geboren wäre.\nEvangelist: Da antwortete Judas, der ihn verriet, und sprach:\nJudas: Bin ich's, Rabbi?\nEvangelist: Er sprach zu ihm:\nJesus: Du sagest's.\nEvangelist: Da sie aber aßen, nahm Jesus das Brot, dankete und brach's und gab's den Jüngern und sprach:\nJesus: Nehmet, esset, das ist mein Leib.\nEvangelist: Und er nahm den Kelch und dankete, gab ihnen den und sprach:\nJesus: Trinket alle daraus; das ist mein Blut des neuen Testaments, welches vergossen wird für viele zur Vergebung der Sünden. Ich sage euch: Ich werde von nun an nicht mehr von diesem Gewächs des Weinstocks trinken bis an den Tag, da ich's neu trinken werde mit euch in meines Vaters Reich.",
+        "textFrench": "L'Évangéliste : Il répondit :\nJésus : Celui qui a mis avec moi la main dans le plat, celui-là me livrera. Le Fils de l'homme s'en va, selon ce qui est écrit de lui ; mais malheur à l'homme par qui le Fils de l'homme est livré ! Mieux vaudrait pour cet homme-là n'être pas né.\nL'Évangéliste : Judas, qui le livrait, prit la parole et dit :\nJudas : Serait-ce moi, Rabbi ?\nL'Évangéliste : Il lui répondit :\nJésus : Tu l'as dit.\nL'Évangéliste : Pendant qu'ils mangeaient, Jésus prit du pain, prononça la bénédiction, le rompit, le donna aux disciples et dit :\nJésus : Prenez, mangez, ceci est mon corps.\nL'Évangéliste : Puis il prit une coupe, rendit grâce et la leur donna en disant :\nJésus : Buvez-en tous ; ceci est mon sang, le sang de la nouvelle alliance, qui est versé pour la multitude en rémission des péchés. Je vous le dis : désormais je ne boirai plus de ce fruit de la vigne, jusqu'au jour où je le boirai, nouveau, avec vous dans le royaume de mon Père."
+      },
+      {
+        "number": "12",
+        "type": "Récitatif",
+        "voice": "Soprano",
+        "scoring": "2 hautbois d'amore, continuo",
+        "textGerman": "Wiewohl mein Herz in Tränen schwimmt,\nDass Jesus von mir Abschied nimmt,\nSo macht mich doch sein Testament erfreut:\nSein Fleisch und Blut, o Kostbarkeit,\nVermacht er mir in meine Hände.\nWie er es auf der Welt mit denen Seinen\nNicht böse können meinen,\nSo liebt er sie bis an das Ende.",
+        "textFrench": "Quoique mon cœur nage dans les larmes\nDe ce que Jésus prend congé de moi,\nSon testament cependant me console :\nSa chair et son sang, ô précieux trésor,\nIl me les lègue entre les mains.\nComme il ne pouvait, ici-bas, vouloir du mal\nÀ ceux qui étaient siens,\nIl les aime jusqu'à la fin."
+      },
+      {
+        "number": "13",
+        "type": "Aria",
+        "voice": "Soprano",
+        "scoring": "2 hautbois d'amore, continuo",
+        "textGerman": "Ich will dir mein Herze schenken,\nSenke dich, mein Heil, hinein!\nIch will mich in dir versenken;\nIst dir gleich die Welt zu klein,\nEi, so sollst du mir allein\nMehr als Welt und Himmel sein.",
+        "textFrench": "Je veux te donner mon cœur,\nDescends-y, mon Sauveur !\nJe veux m'abîmer en toi ;\nSi le monde t'est trop petit,\nÀ moi seul, eh bien, tu seras\nPlus que le monde et que le ciel."
+      },
+      {
+        "number": "14",
+        "type": "Récitatif",
+        "voice": "Évangéliste, Jésus",
+        "scoring": "continuo (Jésus avec halo de cordes)",
+        "textGerman": "Evangelist: Und da sie den Lobgesang gesprochen hatten, gingen sie hinaus an den Ölberg. Da sprach Jesus zu ihnen:\nJesus: In dieser Nacht werdet ihr euch alle ärgern an mir. Denn es stehet geschrieben: Ich werde den Hirten schlagen, und die Schafe der Herde werden sich zerstreuen. Wenn ich aber auferstehe, will ich vor euch hingehen in Galiläam.",
+        "textFrench": "L'Évangéliste : Après avoir chanté les psaumes, ils sortirent vers le mont des Oliviers. Alors Jésus leur dit :\nJésus : Cette nuit, je serai pour vous tous une occasion de chute, car il est écrit : Je frapperai le berger et les brebis du troupeau seront dispersées. Mais quand je serai ressuscité, je vous précéderai en Galilée."
+      },
+      {
+        "number": "15",
+        "type": "Choral",
+        "voice": "SATB",
+        "scoring": "flûtes, hautbois, cordes, continuo",
+        "textGerman": "Erkenne mich, mein Hüter,\nMein Hirte, nimm mich an!\nVon dir, Quell aller Güter,\nIst mir viel Guts getan.\nDein Mund hat mich gelabet\nMit Milch und süßer Kost,\nDein Geist hat mich begabet\nMit mancher Himmelslust.",
+        "textFrench": "Reconnais-moi, mon gardien,\nMon berger, accueille-moi !\nDe toi, source de tous biens,\nIl m'est venu beaucoup de bien.\nTa bouche m'a abreuvé\nDe lait et de douce nourriture,\nTon esprit m'a comblé\nDe maintes joies célestes."
+      },
+      {
+        "number": "16",
+        "type": "Récitatif",
+        "voice": "Évangéliste, Pierre, Jésus",
+        "scoring": "continuo (Jésus avec halo de cordes)",
+        "textGerman": "Evangelist: Petrus aber antwortete und sprach zu ihm:\nPetrus: Wenn sie auch alle sich an dir ärgerten, so will ich doch mich nimmermehr ärgern.\nEvangelist: Jesus sprach zu ihm:\nJesus: Wahrlich, ich sage dir: In dieser Nacht, ehe der Hahn krähet, wirst du mich dreimal verleugnen.\nEvangelist: Petrus sprach zu ihm:\nPetrus: Und wenn ich mit dir sterben müsste, so will ich dich nicht verleugnen.\nEvangelist: Desgleichen sagten auch alle Jünger.",
+        "textFrench": "L'Évangéliste : Pierre prit la parole et lui dit :\nPierre : Quand bien même tous trouveraient en toi une occasion de chute, moi jamais !\nL'Évangéliste : Jésus lui dit :\nJésus : En vérité, je te le dis : cette nuit même, avant que le coq chante, tu m'auras renié trois fois.\nL'Évangéliste : Pierre lui dit :\nPierre : Quand il me faudrait mourir avec toi, je ne te renierai pas.\nL'Évangéliste : Et tous les disciples en dirent autant."
+      },
+      {
+        "number": "17",
+        "type": "Choral",
+        "voice": "SATB",
+        "scoring": "flûtes, hautbois, cordes, continuo",
+        "textGerman": "Ich will hier bei dir stehen;\nVerachte mich doch nicht!\nVon dir will ich nicht gehen,\nWenn dir dein Herze bricht.\nWenn dein Herz wird erblassen\nIm letzten Todesstoß,\nAlsdenn will ich dich fassen\nIn meinen Arm und Schoß.",
+        "textFrench": "Je veux me tenir ici près de toi ;\nNe me méprise pas !\nDe toi je ne veux m'éloigner,\nQuand ton cœur se brise.\nQuand ton cœur pâlira\nSous le dernier coup de la mort,\nAlors je veux te prendre\nDans mes bras et sur mon sein."
+      },
+      {
+        "number": "18",
+        "type": "Récitatif",
+        "voice": "Évangéliste, Jésus",
+        "scoring": "continuo (Jésus avec halo de cordes)",
+        "textGerman": "Evangelist: Da kam Jesus mit ihnen zu einem Hofe, der hieß Gethsemane, und sprach zu seinen Jüngern:\nJesus: Setzet euch hie, bis dass ich dort hingehe und bete.\nEvangelist: Und nahm zu sich Petrum und die zween Söhne Zebedäi und fing an zu trauern und zu zagen. Da sprach Jesus zu ihnen:\nJesus: Meine Seele ist betrübt bis an den Tod, bleibet hie und wachet mit mir.",
+        "textFrench": "L'Évangéliste : Alors Jésus parvint avec eux à un domaine appelé Gethsémani, et il dit à ses disciples :\nJésus : Asseyez-vous ici, pendant que j'irai là-bas pour prier.\nL'Évangéliste : Il prit avec lui Pierre et les deux fils de Zébédée, et il commença à être triste et angoissé. Alors Jésus leur dit :\nJésus : Mon âme est triste jusqu'à la mort. Demeurez ici et veillez avec moi."
+      },
+      {
+        "number": "19",
+        "type": "Récitatif avec choral",
+        "voice": "Ténor (chœur II : choral)",
+        "scoring": "2 flûtes, 2 hautbois da caccia, continuo",
+        "textGerman": "Ténor (Chor I): O Schmerz!\nHier zittert das gequälte Herz;\nWie sinkt es hin, wie bleicht sein Angesicht!\nDer Richter führt ihn vor Gericht.\nDa ist kein Trost, kein Helfer nicht.\nEr leidet alle Höllenqualen,\nEr soll vor fremden Raub bezahlen.\nAch, könnte meine Liebe dir,\nMein Heil, dein Zittern und dein Zagen\nVermindern oder helfen tragen,\nWie gerne blieb ich hier!\n\nChoral (Chor II):\nWas ist die Ursach aller solcher Plagen?\nAch! meine Sünden haben dich geschlagen;\nIch, ach Herr Jesu, habe dies verschuldet,\nWas du erduldet.",
+        "textFrench": "Ténor (Chœur I) : Ô douleur !\nIci tremble le cœur tourmenté ;\nComme il s'effondre, comme son visage pâlit !\nLe Juge le mène devant le tribunal.\nLà nul réconfort, nul secours.\nIl souffre toutes les peines de l'enfer,\nIl doit payer pour le larcin d'un autre.\nAh, si mon amour pouvait,\nMon Sauveur, à ton tremblement et ton effroi\nAlléger ou prêter sa main,\nQue je resterais ici de bon cœur !\n\nChoral (Chœur II) :\nQuelle est la cause de tous ces tourments ?\nHélas ! mes péchés t'ont frappé ;\nMoi, ah Seigneur Jésus, j'ai mérité\nCe que tu as enduré."
+      },
+      {
+        "number": "20",
+        "type": "Aria avec chœur",
+        "voice": "Ténor (chœur II)",
+        "scoring": "hautbois, cordes, continuo",
+        "textGerman": "Ténor (Chor I): Ich will bei meinem Jesu wachen.\nChor II: So schlafen unsre Sünden ein.\nTénor: Meinen Tod büßet seine Seelennot;\nSein Trauren machet mich voll Freuden.\nChor II: Drum muss uns sein verdienstlich Leiden\nRecht bitter und doch süße sein.",
+        "textFrench": "Ténor (Chœur I) : Je veux veiller auprès de mon Jésus.\nChœur II : Et nos péchés s'endorment.\nTénor : Sa détresse expie ma mort,\nSa tristesse me remplit de joie.\nChœur II : Aussi sa souffrance méritante doit-elle\nNous être bien amère et pourtant douce."
+      },
+      {
+        "number": "21",
+        "type": "Récitatif",
+        "voice": "Évangéliste, Jésus",
+        "scoring": "continuo (Jésus avec halo de cordes)",
+        "textGerman": "Evangelist: Und ging hin ein wenig, fiel nieder auf sein Angesicht und betete und sprach:\nJesus: Mein Vater, ist's möglich, so gehe dieser Kelch von mir; doch nicht wie ich will, sondern wie du willt.",
+        "textFrench": "L'Évangéliste : Et s'étant un peu avancé, il tomba la face contre terre, priant et disant :\nJésus : Mon Père, s'il est possible, que cette coupe s'éloigne de moi ; pourtant, non pas comme je veux, mais comme tu veux."
+      },
+      {
+        "number": "22",
+        "type": "Récitatif",
+        "voice": "Basse",
+        "scoring": "cordes, continuo",
+        "textGerman": "Der Heiland fällt vor seinem Vater nieder;\nDadurch erhebt er mich und alle\nVon unserm Falle\nHinauf zu Gottes Gnade wieder.\nEr ist bereit,\nDen Kelch, des Todes Bitterkeit\nZu trinken,\nIn welchen Sünden dieser Welt\nGegossen sind und hässlich stinken,\nWeil es dem lieben Gott gefällt.",
+        "textFrench": "Le Sauveur tombe à terre devant son Père ;\nIl me relève par là, et nous tous,\nDe notre chute,\nÀ la grâce de Dieu de nouveau.\nIl est prêt\nÀ boire la coupe, l'amertume\nDe la mort,\nDans laquelle ont été versés les péchés\nDe ce monde, et puent affreusement,\nParce qu'il plaît au Dieu de bonté."
+      },
+      {
+        "number": "23",
+        "type": "Aria",
+        "voice": "Basse",
+        "scoring": "violon solo, cordes, continuo",
+        "textGerman": "Gerne will ich mich bequemen,\nKreuz und Becher anzunehmen,\nTrink ich doch dem Heiland nach.\nDenn sein Mund,\nDer mit Milch und Honig fließet,\nHat den Grund\nUnd des Leidens herbe Schmach\nDurch den ersten Trunk versüßet.",
+        "textFrench": "Je veux de bon cœur me résigner\nÀ recevoir la croix et la coupe :\nJe bois en suivant mon Sauveur.\nCar sa bouche,\nQui ruisselle de lait et de miel,\nA, du fond même,\nDe la souffrance amère et de la honte,\nPar la première gorgée, fait une douceur."
+      },
+      {
+        "number": "24",
+        "type": "Récitatif",
+        "voice": "Évangéliste, Jésus",
+        "scoring": "continuo (Jésus avec halo de cordes)",
+        "textGerman": "Evangelist: Und er kam zu seinen Jüngern und fand sie schlafend und sprach zu ihnen:\nJesus: Könnet ihr denn nicht eine Stunde mit mir wachen? Wachet und betet, dass ihr nicht in Anfechtung fallet! Der Geist ist willig, aber das Fleisch ist schwach.\nEvangelist: Zum andernmal ging er hin, betete und sprach:\nJesus: Mein Vater, ist's nicht möglich, dass dieser Kelch von mir gehe, ich trinke ihn denn, so geschehe dein Wille.",
+        "textFrench": "L'Évangéliste : Il revint vers ses disciples, les trouva endormis et leur dit :\nJésus : Vous n'avez donc pas eu la force de veiller une heure avec moi ! Veillez et priez, pour ne pas tomber au pouvoir de la tentation. L'esprit est ardent, mais la chair est faible.\nL'Évangéliste : Une seconde fois, il s'éloigna, pria et dit :\nJésus : Mon Père, si cette coupe ne peut passer sans que je la boive, que ta volonté soit faite."
+      },
+      {
+        "number": "25",
+        "type": "Choral",
+        "voice": "SATB",
+        "scoring": "flûtes, hautbois, cordes, continuo",
+        "textGerman": "Was mein Gott will, das g'scheh allzeit,\nSein Will, der ist der beste;\nZu helfen den'n er ist bereit,\nDie an ihn glauben feste.\nEr hilft aus Not, der fromme Gott,\nUnd züchtiget mit Maßen.\nWer Gott vertraut, fest auf ihn baut,\nDen will er nicht verlassen.",
+        "textFrench": "Que la volonté de mon Dieu soit faite en tout temps,\nSa volonté est la meilleure ;\nIl est prêt à secourir\nCeux qui croient fermement en lui.\nIl tire de l'angoisse, le Dieu fidèle,\nEt châtie avec mesure.\nQui se confie en Dieu et fonde tout sur lui,\nIl ne l'abandonnera pas."
+      },
+      {
+        "number": "26",
+        "type": "Récitatif",
+        "voice": "Évangéliste, Jésus, Judas",
+        "scoring": "continuo (Jésus avec halo de cordes)",
+        "textGerman": "Evangelist: Und er kam und fand sie aber schlafend, und ihre Augen waren voll Schlafs. Und er ließ sie und ging abermal hin und betete zum drittenmal und redete dieselbigen Worte. Da kam er zu seinen Jüngern und sprach zu ihnen:\nJesus: Ach! wollt ihr nun schlafen und ruhen? Siehe, die Stunde ist hie, dass des Menschen Sohn in der Sünder Hände überantwortet wird. Stehet auf, lasset uns gehen; siehe, er ist da, der mich verrät.\nEvangelist: Und als er noch redete, siehe, da kam Judas, der Zwölfen einer, und mit ihm eine große Schar mit Schwerten und mit Stangen von den Hohenpriestern und Ältesten des Volks. Und der Verräter hatte ihnen ein Zeichen gegeben und gesagt: \"Welchen ich küssen werde, der ist's, den greifet!\" Und alsbald trat er zu Jesu und sprach:\nJudas: Gegrüßet seist du, Rabbi!\nEvangelist: Und küssete ihn. Jesus aber sprach zu ihm:\nJesus: Mein Freund, warum bist du kommen?\nEvangelist: Da traten sie hinzu und legten die Hände an Jesum und griffen ihn.",
+        "textFrench": "L'Évangéliste : De nouveau il revint, et il les trouva endormis, car leurs yeux étaient appesantis. Il les laissa, s'éloigna encore et pria pour la troisième fois en redisant les mêmes paroles. Puis il revint vers les disciples et leur dit :\nJésus : Ah ! vous dormez maintenant, et vous vous reposez ? Voici, l'heure est venue où le Fils de l'homme est livré aux mains des pécheurs. Levez-vous, allons ! Voici, il approche, celui qui me livre.\nL'Évangéliste : Il parlait encore lorsque arriva Judas, l'un des Douze, et avec lui une troupe nombreuse armée d'épées et de bâtons, envoyée par les grands prêtres et les anciens du peuple. Le traître leur avait donné un signe : « Celui que j'embrasserai, c'est lui, arrêtez-le. » Et aussitôt, s'approchant de Jésus, il dit :\nJudas : Salut, Rabbi !\nL'Évangéliste : Et il l'embrassa. Jésus lui dit :\nJésus : Mon ami, fais ce que tu es venu faire.\nL'Évangéliste : Alors s'avançant, ils mirent la main sur Jésus et l'arrêtèrent."
+      },
+      {
+        "number": "27",
+        "type": "Duo et chœur",
+        "voice": "Soprano, Alto (chœur II)",
+        "scoring": "flûtes, hautbois, cordes, continuo",
+        "textGerman": "Soprano & Alto (Chor I): So ist mein Jesus nun gefangen.\nChor II: Lasst ihn, haltet, bindet nicht!\nSoprano & Alto: Mond und Licht\nIst vor Schmerzen untergangen,\nWeil mein Jesus ist gefangen.\nChor II: Lasst ihn, haltet, bindet nicht!\nSoprano & Alto: Sie führen ihn, er ist gebunden.\n\nChor I & II: Sind Blitze, sind Donner in Wolken verschwunden?\nEröffne den feurigen Abgrund, o Hölle,\nZertrümmre, verderbe, verschlinge, zerschelle\nMit plötzlicher Wut\nDen falschen Verräter, das mördrische Blut!",
+        "textFrench": "Soprano et Alto (Chœur I) : Voilà mon Jésus pris.\nChœur II : Lâchez-le, arrêtez, ne le liez pas !\nSoprano et Alto : Lune et lumière\nOnt sombré de douleur,\nParce que mon Jésus est pris.\nChœur II : Lâchez-le, arrêtez, ne le liez pas !\nSoprano et Alto : Ils l'emmènent, il est lié.\n\nChœurs I et II : Sont-ils disparus dans les nues, les éclairs et le tonnerre ?\nOuvre, ô enfer, ton gouffre de feu,\nBrise, détruis, engloutis, fracasse\nDans une rage soudaine\nLe traître menteur, le sang meurtrier !"
+      },
+      {
+        "number": "28",
+        "type": "Récitatif",
+        "voice": "Évangéliste, Jésus",
+        "scoring": "continuo (Jésus avec halo de cordes)",
+        "textGerman": "Evangelist: Und siehe, einer aus denen, die mit Jesu waren, reckete die Hand aus und schlug des Hohenpriesters Knecht und hieb ihm ein Ohr ab. Da sprach Jesus zu ihm:\nJesus: Stecke dein Schwert an seinen Ort; denn wer das Schwert nimmt, der soll durchs Schwert umkommen. Oder meinest du, dass ich nicht könnte meinen Vater bitten, dass er mir zuschickte mehr denn zwölf Legion Engel? Wie würde aber die Schrift erfüllet? Es muss also gehen.\nEvangelist: Zu der Stund sprach Jesus zu den Scharen:\nJesus: Ihr seid ausgegangen als zu einem Mörder, mit Schwerten und mit Stangen, mich zu fahen; bin ich doch täglich bei euch gesessen und habe gelehret im Tempel, und ihr habt mich nicht gegriffen. Aber das ist alles geschehen, dass erfüllet würden die Schriften der Propheten.\nEvangelist: Da verließen ihn alle Jünger und flohen.",
+        "textFrench": "L'Évangéliste : Et voici, l'un des compagnons de Jésus étendit la main, tira son épée et frappa le serviteur du grand prêtre, lui emportant l'oreille. Alors Jésus lui dit :\nJésus : Remets ton épée à sa place : car tous ceux qui prennent l'épée périront par l'épée. Penses-tu donc que je ne pourrais pas prier mon Père, qui me fournirait à l'instant plus de douze légions d'anges ? Mais alors comment s'accompliraient les Écritures, selon lesquelles il doit en être ainsi ?\nL'Évangéliste : À ce moment, Jésus dit aux foules :\nJésus : Comme contre un brigand vous êtes partis avec des épées et des bâtons pour me saisir ! Chaque jour pourtant j'étais assis dans le Temple à enseigner, et vous ne m'avez pas arrêté. Mais tout cela est arrivé pour que s'accomplissent les écrits des prophètes.\nL'Évangéliste : Alors tous les disciples l'abandonnèrent et s'enfuirent."
+      },
+      {
+        "number": "29",
+        "type": "Choral fantasia (clôture de la première partie)",
+        "voice": "Double chœur SATB + sopranos in ripieno",
+        "scoring": "flûtes, hautbois, cordes, continuo",
+        "textGerman": "O Mensch, bewein dein Sünde groß,\nDarum Christus seins Vaters Schoß\nÄußert und kam auf Erden;\nVon einer Jungfrau rein und zart\nFür uns er hie geboren ward,\nEr wollt der Mittler werden.\nDen Toten er das Leben gab\nUnd legt darbei all Krankheit ab,\nBis sich die Zeit herdrange,\nDass er für uns geopfert würd,\nTrüg unsrer Sünden schwere Bürd\nWohl an dem Kreuze lange.",
+        "textFrench": "Ô homme, pleure ton grand péché,\nÀ cause duquel le Christ quitta\nLe sein de son Père et vint sur la terre ;\nD'une Vierge pure et tendre\nIl est né pour nous ici,\nIl voulut être le médiateur.\nAux morts il rendit la vie\nEt repoussa toute maladie,\nJusqu'à ce que vint l'heure\nOù il serait pour nous sacrifié,\nPortant le pesant fardeau de nos péchés\nLonguement sur la croix."
+      },
+      {
+        "number": "30",
+        "type": "Aria avec chœur",
+        "voice": "Alto, chœur II",
+        "scoring": "hautbois, cordes, continuo",
+        "textGerman": "Alt (Chor I): Ach! nun ist mein Jesus hin!\nChor II: Wo ist denn dein Freund hingegangen,\nO du Schönste unter den Weibern?\nAlt: Ist es möglich, kann ich schauen?\nChor II: Wo hat sich dein Freund hingewandt?\nAlt: Ach! mein Lamm in Tigerklauen,\nAch! wo ist mein Jesus hin?\nChor II: So wollen wir mit dir ihn suchen.\nAlt: Ach! was soll ich der Seele sagen,\nWenn sie mich wird ängstlich fragen?\nAch! wo ist mein Jesus hin?",
+        "textFrench": "Alto (Chœur I) : Hélas ! mon Jésus n'est plus !\nChœur II : Où donc s'en est allé ton bien-aimé,\nÔ la plus belle d'entre les femmes ?\nAlto : Est-il possible ? puis-je le voir ?\nChœur II : Où ton bien-aimé s'est-il tourné ?\nAlto : Hélas ! mon agneau dans les griffes du tigre,\nHélas ! où donc est mon Jésus ?\nChœur II : Eh bien, avec toi nous le chercherons.\nAlto : Hélas ! que dirai-je à mon âme\nQuand elle m'interrogera anxieusement ?\nHélas ! où donc est mon Jésus ?"
+      },
+      {
+        "number": "31",
+        "type": "Récitatif",
+        "voice": "Évangéliste",
+        "scoring": "continuo",
+        "textGerman": "Evangelist: Die aber Jesum gegriffen hatten, führeten ihn zu dem Hohenpriester Kaiphas, dahin die Schriftgelehrten und Ältesten sich versammlet hatten. Petrus aber folgete ihm nach von ferne bis in den Palast des Hohenpriesters, und ging hinein und satzte sich bei die Knechte, auf dass er sähe, wo es hinaus wollte. Die Hohenpriester aber und Ältesten und der ganze Rat suchten falsche Zeugnis wider Jesum, auf dass sie ihn töteten, und funden keines.",
+        "textFrench": "L'Évangéliste : Ceux qui avaient arrêté Jésus l'emmenèrent chez Caïphe, le grand prêtre, où s'étaient réunis les scribes et les anciens. Pierre, de loin, le suivait jusqu'au palais du grand prêtre ; il entra dans la cour et s'assit avec les serviteurs pour voir comment finirait l'affaire. Or les grands prêtres et tout le Sanhédrin cherchaient un faux témoignage contre Jésus, en vue de le faire mourir, et ils n'en trouvaient pas."
+      },
+      {
+        "number": "32",
+        "type": "Choral",
+        "voice": "SATB",
+        "scoring": "flûtes, hautbois, cordes, continuo",
+        "textGerman": "Mir hat die Welt trüglich gericht't\nMit Lügen und mit falschem G'dicht,\nViel Netz und heimlich Stricke.\nHerr, nimm mein wahr in dieser G'fahr,\nB'hüt mich für falschen Tücken!",
+        "textFrench": "Le monde m'a perfidement jugé\nPar des mensonges et de fausses paroles,\nMaints filets et lacets secrets.\nSeigneur, prends garde à moi dans ce péril,\nGarde-moi des perfides tromperies !"
+      },
+      {
+        "number": "33",
+        "type": "Récitatif",
+        "voice": "Évangéliste, deux témoins, grand prêtre, Jésus",
+        "scoring": "continuo (Jésus avec halo de cordes)",
+        "textGerman": "Evangelist: Und wiewohl viel falsche Zeugen herzutraten, fanden sie doch keins. Zuletzt traten herzu zween falsche Zeugen und sprachen:\nZeugen: Er hat gesagt: Ich kann den Tempel Gottes abbrechen und in dreien Tagen denselben bauen.\nEvangelist: Und der Hohepriester stund auf und sprach zu ihm:\nHoherpriester: Antwortest du nichts zu dem, das diese wider dich zeugen?\nEvangelist: Aber Jesus schwieg stille.",
+        "textFrench": "L'Évangéliste : Bien que beaucoup de faux témoins se fussent présentés, ils n'en trouvèrent pas. Finalement il en vint deux qui déclarèrent :\nLes témoins : Cet homme a dit : Je puis détruire le Temple de Dieu et le rebâtir en trois jours.\nL'Évangéliste : Alors le grand prêtre se leva et lui dit :\nLe grand prêtre : Tu ne réponds rien à ce que ces gens témoignent contre toi ?\nL'Évangéliste : Mais Jésus gardait le silence."
+      },
+      {
+        "number": "34",
+        "type": "Récitatif",
+        "voice": "Ténor",
+        "scoring": "hautbois, viole de gambe, continuo",
+        "textGerman": "Mein Jesus schweigt\nZu falschen Lügen stille,\nUm uns damit zu zeigen,\nDass sein Erbarmens voller Wille\nVor uns zum Leiden sei geneigt,\nUnd dass wir in dergleichen Pein\nIhm sollen ähnlich sein\nUnd in Verfolgung stille schweigen.",
+        "textFrench": "Mon Jésus se tait\nDevant les fausses calomnies,\nPour nous montrer ainsi\nQue sa volonté pleine de miséricorde\nLe porte à souffrir pour nous,\nEt qu'en pareille épreuve\nNous devons lui ressembler\nEt dans la persécution garder silence."
+      },
+      {
+        "number": "35",
+        "type": "Aria",
+        "voice": "Ténor",
+        "scoring": "viole de gambe obligée, continuo",
+        "textGerman": "Geduld, Geduld!\nWenn mich falsche Zungen stechen.\nLeid ich wider meine Schuld\nSchimpf und Spott,\nEi, so mag der liebe Gott\nMeines Herzens Unschuld rächen.",
+        "textFrench": "Patience, patience !\nQuand des langues fausses me piquent.\nSi je souffre, sans mériter,\nOpprobre et moquerie,\nEh bien, que le Dieu de bonté\nVenge l'innocence de mon cœur."
+      },
+      {
+        "number": "36",
+        "type": "Récitatif et chœurs (turbae)",
+        "voice": "Évangéliste, grand prêtre, Jésus, double chœur",
+        "scoring": "cordes, continuo (Jésus avec halo de cordes)",
+        "textGerman": "Evangelist: Und der Hohepriester antwortete und sprach zu ihm:\nHoherpriester: Ich beschwöre dich bei dem lebendigen Gott, dass du uns sagest, ob du seiest Christus, der Sohn Gottes?\nEvangelist: Jesus sprach zu ihm:\nJesus: Du sagest's. Doch sage ich euch: Von nun an wird's geschehen, dass ihr sehen werdet des Menschen Sohn sitzen zur Rechten der Kraft und kommen in den Wolken des Himmels.\nEvangelist: Da zerriss der Hohepriester seine Kleider und sprach:\nHoherpriester: Er hat Gott gelästert; was dürfen wir weiter Zeugnis? Siehe, jetzt habt ihr seine Gotteslästerung gehöret. Was dünket euch?\nEvangelist: Sie antworteten und sprachen:\nChor I & II: Er ist des Todes schuldig!\nEvangelist: Da speieten sie aus in sein Angesicht und schlugen ihn mit Fäusten. Etliche aber schlugen ihn ins Angesicht und sprachen:\nChor I & II: Weissage uns, Christe, wer ist's, der dich schlug?",
+        "textFrench": "L'Évangéliste : Le grand prêtre prit la parole et lui dit :\nLe grand prêtre : Je t'en adjure par le Dieu vivant, dis-nous si tu es le Christ, le Fils de Dieu.\nL'Évangéliste : Jésus lui dit :\nJésus : Tu l'as dit. D'ailleurs je vous le déclare : désormais vous verrez le Fils de l'homme siéger à la droite du Tout-Puissant et venir sur les nuées du ciel.\nL'Évangéliste : Alors le grand prêtre déchira ses vêtements et dit :\nLe grand prêtre : Il a blasphémé ! Qu'avons-nous encore besoin de témoins ? Vous venez d'entendre le blasphème. Quel est votre avis ?\nL'Évangéliste : Ils répondirent :\nChœurs I et II : Il mérite la mort !\nL'Évangéliste : Alors ils lui crachèrent au visage et lui donnèrent des coups de poing ; d'autres lui donnèrent des soufflets en disant :\nChœurs I et II : Fais le prophète, ô Christ : dis-nous qui t'a frappé !"
+      },
+      {
+        "number": "37",
+        "type": "Choral",
+        "voice": "SATB",
+        "scoring": "flûtes, hautbois, cordes, continuo",
+        "textGerman": "Wer hat dich so geschlagen,\nMein Heil, und dich mit Plagen\nSo übel zugericht'?\nDu bist ja nicht ein Sünder\nWie wir und unsre Kinder,\nVon Missetaten weißt du nicht.",
+        "textFrench": "Qui t'a ainsi frappé,\nMon Sauveur, et de tourments\nSi cruellement accablé ?\nTu n'es pourtant pas un pécheur\nComme nous et nos enfants,\nTu ne connais pas les méfaits."
+      },
+      {
+        "number": "38",
+        "type": "Récitatif et chœur (turba)",
+        "voice": "Évangéliste, Pierre, deux servantes, chœur",
+        "scoring": "continuo",
+        "textGerman": "Evangelist: Petrus aber saß draußen im Palast; und es trat zu ihm eine Magd und sprach:\nErste Magd: Und du warest auch mit dem Jesu aus Galiläa.\nEvangelist: Er leugnete aber vor ihnen allen und sprach:\nPetrus: Ich weiß nicht, was du sagest.\nEvangelist: Als er aber zur Tür hinausging, sahe ihn eine andere und sprach zu denen, die da waren:\nZweite Magd: Dieser war auch mit dem Jesu von Nazareth.\nEvangelist: Und er leugnete abermal und schwur dazu:\nPetrus: Ich kenne des Menschen nicht.\nEvangelist: Und über eine kleine Weile traten hinzu, die da stunden, und sprachen zu Petro:\nChor I & II: Wahrlich, du bist auch einer von denen, denn deine Sprache verrät dich.\nEvangelist: Da hub er an, sich zu verfluchen und zu schwören:\nPetrus: Ich kenne des Menschen nicht.\nEvangelist: Und alsbald krähete der Hahn. Da dachte Petrus an die Worte Jesu, da er zu ihm sagte: Ehe der Hahn krähen wird, wirst du mich dreimal verleugnen. Und ging heraus und weinete bitterlich.",
+        "textFrench": "L'Évangéliste : Pierre cependant était assis dehors, dans la cour ; une servante s'approcha de lui et lui dit :\nPremière servante : Toi aussi, tu étais avec Jésus, le Galiléen.\nL'Évangéliste : Mais il nia devant tous, disant :\nPierre : Je ne sais pas ce que tu veux dire.\nL'Évangéliste : Comme il s'en allait vers le portail, une autre le vit et dit aux gens qui étaient là :\nDeuxième servante : Celui-ci était avec Jésus le Nazoréen.\nL'Évangéliste : De nouveau il nia, en jurant :\nPierre : Je ne connais pas cet homme.\nL'Évangéliste : Peu après, ceux qui se tenaient là s'approchèrent de Pierre et lui dirent :\nChœurs I et II : Sûrement, toi aussi, tu es des leurs ! D'ailleurs ton accent te trahit.\nL'Évangéliste : Alors il se mit à jurer avec force imprécations :\nPierre : Je ne connais pas cet homme !\nL'Évangéliste : Et aussitôt un coq chanta. Pierre se souvint alors de la parole que Jésus lui avait dite : Avant que le coq chante, tu m'auras renié trois fois. Et, sortant dehors, il pleura amèrement."
+      },
+      {
+        "number": "39",
+        "type": "Aria",
+        "voice": "Alto",
+        "scoring": "violon solo, cordes, continuo",
+        "textGerman": "Erbarme dich,\nMein Gott, um meiner Zähren willen!\nSchaue hier,\nHerz und Auge weint vor dir\nBitterlich.",
+        "textFrench": "Aie pitié,\nMon Dieu, à cause de mes larmes !\nRegarde,\nCœur et yeux pleurent devant toi\nAmèrement."
+      },
+      {
+        "number": "40",
+        "type": "Choral",
+        "voice": "SATB",
+        "scoring": "flûtes, hautbois, cordes, continuo",
+        "textGerman": "Bin ich gleich von dir gewichen,\nStell ich mich doch wieder ein;\nHat uns doch dein Sohn verglichen\nDurch sein Angst und Todespein.\nIch verleugne nicht die Schuld,\nAber deine Gnad und Huld\nIst viel größer als die Sünde,\nDie ich stets in mir befinde.",
+        "textFrench": "Si je me suis éloigné de toi,\nMe voici de nouveau revenu ;\nTon Fils nous a réconciliés\nPar son angoisse et l'agonie de sa mort.\nJe ne nie pas ma faute,\nMais ta grâce et ta bonté\nSont bien plus grandes que le péché\nQu'en moi sans cesse je trouve."
+      },
+      {
+        "number": "41",
+        "type": "Récitatif et chœur (turba)",
+        "voice": "Évangéliste, Judas, grands prêtres",
+        "scoring": "continuo",
+        "textGerman": "Evangelist: Des Morgens aber hielten alle Hohepriester und die Ältesten des Volks einen Rat über Jesum, dass sie ihn töteten. Und bunden ihn, führeten ihn hin und überantworteten ihn dem Landpfleger Pontio Pilato. Da das sahe Judas, der ihn verraten hatte, dass er verdammt war zum Tode, gereuete es ihn, und brachte herwieder die dreißig Silberlinge den Hohenpriestern und Ältesten und sprach:\nJudas: Ich habe übel getan, dass ich unschuldig Blut verraten habe.\nEvangelist: Sie sprachen:\nChor I & II: Was gehet uns das an? Da siehe du zu!\nEvangelist: Und er warf die Silberlinge in den Tempel, hub sich davon, ging hin und erhängete sich selbst. Aber die Hohenpriester nahmen die Silberlinge und sprachen:\nHohepriester: Es taugt nicht, dass wir sie in den Gotteskasten legen, denn es ist Blutgeld.",
+        "textFrench": "L'Évangéliste : Le matin venu, tous les grands prêtres et les anciens du peuple tinrent conseil contre Jésus pour le mettre à mort. Après l'avoir ligoté, ils l'emmenèrent et le livrèrent à Pilate, le gouverneur. Alors Judas, qui l'avait livré, voyant qu'il était condamné, fut pris de remords et rapporta les trente pièces d'argent aux grands prêtres et aux anciens, en disant :\nJudas : J'ai péché en livrant à la mort un sang innocent.\nL'Évangéliste : Ils répondirent :\nChœurs I et II : Que nous importe ? Cela te regarde !\nL'Évangéliste : Alors, jetant les pièces d'argent dans le Temple, il se retira et s'en alla se pendre. Mais les grands prêtres, ramassant l'argent, dirent :\nLes grands prêtres : Il n'est pas permis de le verser au trésor sacré, puisque c'est le prix du sang."
+      },
+      {
+        "number": "42",
+        "type": "Aria",
+        "voice": "Basse",
+        "scoring": "violon solo, cordes, continuo",
+        "textGerman": "Gebt mir meinen Jesum wieder!\nSeht, das Geld, den Mörderlohn,\nWirft euch der verlorne Sohn\nZu den Füßen nieder!",
+        "textFrench": "Rendez-moi mon Jésus !\nVoyez, l'argent, le salaire du meurtre,\nLe fils perdu vous le jette\nAux pieds !"
+      },
+      {
+        "number": "43",
+        "type": "Récitatif",
+        "voice": "Évangéliste, Pilate, Jésus",
+        "scoring": "continuo (Jésus avec halo de cordes)",
+        "textGerman": "Evangelist: Sie hielten aber einen Rat und kauften einen Töpfersacker darum zum Begräbnis der Pilger. Daher ist derselbige Acker genennet der Blutacker bis auf den heutigen Tag. Da ist erfüllet, das gesagt ist durch den Propheten Jeremias, da er spricht: \"Sie haben genommen dreißig Silberlinge, damit bezahlet ward der Verkaufte, welchen sie kauften von den Kindern Israel, und haben sie gegeben um einen Töpfersacker, als mir der Herr befohlen hat.\" Jesus aber stund vor dem Landpfleger; und der Landpfleger fragte ihn und sprach:\nPilatus: Bist du der Jüden König?\nEvangelist: Jesus aber sprach zu ihm:\nJesus: Du sagest's.\nEvangelist: Und da er verklagt war von den Hohenpriestern und Ältesten, antwortete er nichts. Da sprach Pilatus zu ihm:\nPilatus: Hörest du nicht, wie hart sie dich verklagen?\nEvangelist: Und er antwortete ihm nicht auf ein Wort, also, dass sich auch der Landpfleger sehr verwunderte.",
+        "textFrench": "L'Évangéliste : Après en avoir délibéré, ils achetèrent avec cet argent le champ du Potier pour la sépulture des étrangers. Voilà pourquoi ce champ s'appelle « Champ du Sang » jusqu'à ce jour. Alors s'accomplit ce qui avait été dit par le prophète Jérémie : « Ils ont pris les trente pièces d'argent, prix de celui dont les fils d'Israël avaient fixé le prix, et ils les ont données pour le champ du Potier, comme me l'avait ordonné le Seigneur. » Jésus comparut devant le gouverneur. Le gouverneur l'interrogea :\nPilate : Es-tu le roi des Juifs ?\nL'Évangéliste : Jésus lui dit :\nJésus : Tu le dis.\nL'Évangéliste : Et tandis que les grands prêtres et les anciens l'accusaient, il ne répondit rien. Alors Pilate lui dit :\nPilate : N'entends-tu pas tout ce dont ils t'accusent ?\nL'Évangéliste : Mais il ne lui répondit sur aucun point, en sorte que le gouverneur était fort étonné."
+      },
+      {
+        "number": "44",
+        "type": "Choral",
+        "voice": "SATB",
+        "scoring": "flûtes, hautbois, cordes, continuo",
+        "textGerman": "Befiehl du deine Wege\nUnd was dein Herze kränkt\nDer allertreusten Pflege\nDes, der den Himmel lenkt.\nDer Wolken, Luft und Winden\nGibt Wege, Lauf und Bahn,\nDer wird auch Wege finden,\nDa dein Fuß gehen kann.",
+        "textFrench": "Remets tes voies\nEt ce qui afflige ton cœur\nAu soin très fidèle\nDe celui qui guide les cieux.\nCelui qui donne aux nuages,\nÀ l'air et aux vents leur cours,\nSaura bien trouver les chemins\nOù ton pied pourra passer."
+      },
+      {
+        "number": "45",
+        "type": "Récitatif et chœur (turba)",
+        "voice": "Évangéliste, Pilate, femme de Pilate, double chœur",
+        "scoring": "continuo",
+        "textGerman": "Evangelist: Auf das Fest aber hatte der Landpfleger Gewohnheit, dem Volk einen Gefangenen loszugeben, welchen sie wollten. Er hatte aber zu der Zeit einen Gefangenen, einen sonderlichen vor andern, der hieß Barrabas. Und da sie versammlet waren, sprach Pilatus zu ihnen:\nPilatus: Welchen wollet ihr, dass ich euch losgebe? Barrabam oder Jesum, von dem gesaget wird, er sei Christus?\nEvangelist: Denn er wusste wohl, dass sie ihn aus Neid überantwortet hatten. Und da er auf dem Richtstuhl saß, schickete sein Weib zu ihm und ließ ihm sagen:\nPilati Weib: Habe du nichts zu schaffen mit diesem Gerechten; ich habe heute viel erlitten im Traum von seinetwegen.\nEvangelist: Aber die Hohenpriester und die Ältesten überredeten das Volk, dass sie um Barrabam bitten sollten und Jesum umbrächten. Da antwortete nun der Landpfleger und sprach zu ihnen:\nPilatus: Welchen wollt ihr unter diesen zweien, den ich euch soll losgeben?\nEvangelist: Sie sprachen:\nChor I & II: Barrabam!\nEvangelist: Pilatus sprach zu ihnen:\nPilatus: Was soll ich denn machen mit Jesu, von dem gesagt wird, er sei Christus?\nEvangelist: Sie sprachen alle:\nChor I & II: Lass ihn kreuzigen!",
+        "textFrench": "L'Évangéliste : À chaque fête, le gouverneur avait coutume de relâcher pour la foule un prisonnier, celui qu'elle voulait. Or, à ce moment, il y avait en prison un prisonnier fameux, nommé Barabbas. Comme la foule s'était rassemblée, Pilate leur dit :\nPilate : Lequel voulez-vous que je vous relâche : Barabbas, ou Jésus, qu'on appelle le Christ ?\nL'Évangéliste : Il savait bien que c'était par jalousie qu'on lui avait livré Jésus. Or, tandis qu'il siégeait au tribunal, sa femme lui envoya dire :\nLa femme de Pilate : Ne te mêle pas de l'affaire de ce juste, car aujourd'hui j'ai été tourmentée en songe à cause de lui.\nL'Évangéliste : Mais les grands prêtres et les anciens persuadèrent la foule de demander Barabbas et de faire périr Jésus. Le gouverneur reprit la parole et leur dit :\nPilate : Lequel des deux voulez-vous que je vous relâche ?\nL'Évangéliste : Ils répondirent :\nChœurs I et II : Barabbas !\nL'Évangéliste : Pilate leur dit :\nPilate : Que ferai-je donc de Jésus, qu'on appelle le Christ ?\nL'Évangéliste : Ils dirent tous :\nChœurs I et II : Qu'il soit crucifié !"
+      },
+      {
+        "number": "46",
+        "type": "Choral",
+        "voice": "SATB",
+        "scoring": "flûtes, hautbois, cordes, continuo",
+        "textGerman": "Wie wunderbarlich ist doch diese Strafe!\nDer gute Hirte leidet für die Schafe,\nDie Schuld bezahlt der Herre, der Gerechte,\nFür seine Knechte.",
+        "textFrench": "Quel châtiment étrange et merveilleux !\nLe bon berger souffre pour les brebis,\nLa dette est payée par le Seigneur, le Juste,\nPour ses serviteurs."
+      },
+      {
+        "number": "47",
+        "type": "Récitatif",
+        "voice": "Évangéliste, Pilate",
+        "scoring": "continuo",
+        "textGerman": "Evangelist: Der Landpfleger sagte:\nPilatus: Was hat er denn Übels getan?",
+        "textFrench": "L'Évangéliste : Le gouverneur dit :\nPilate : Quel mal a-t-il donc fait ?"
+      },
+      {
+        "number": "48",
+        "type": "Récitatif",
+        "voice": "Soprano",
+        "scoring": "2 hautbois da caccia, continuo",
+        "textGerman": "Er hat uns allen wohlgetan,\nDen Blinden gab er das Gesicht,\nDie Lahmen macht' er gehend,\nEr sagt uns seines Vaters Wort,\nEr trieb die Teufel fort,\nBetrübte hat er aufgericht't,\nEr nahm die Sünder auf und an,\nSonst hat mein Jesus nichts getan.",
+        "textFrench": "À nous tous il a fait du bien,\nAux aveugles il a rendu la vue,\nLes boiteux, il les a fait marcher,\nIl nous a dit la parole de son Père,\nIl a chassé les démons,\nIl a relevé les affligés,\nIl a accueilli et reçu les pécheurs,\nMon Jésus n'a rien fait d'autre."
+      },
+      {
+        "number": "49",
+        "type": "Aria",
+        "voice": "Soprano",
+        "scoring": "flûte, 2 hautbois da caccia (sans continuo)",
+        "textGerman": "Aus Liebe,\nAus Liebe will mein Heiland sterben,\nVon einer Sünde weiß er nichts,\nDass das ewige Verderben\nUnd die Strafe des Gerichts\nNicht auf meiner Seele bliebe.",
+        "textFrench": "Par amour,\nPar amour mon Sauveur veut mourir,\nLui qui ne connaît aucun péché,\nAfin que la perte éternelle\nEt le châtiment du jugement\nNe demeurent pas sur mon âme."
+      },
+      {
+        "number": "50",
+        "type": "Récitatif et chœur (turba)",
+        "voice": "Évangéliste, Pilate, double chœur",
+        "scoring": "continuo",
+        "textGerman": "Evangelist: Sie schrieen aber noch mehr und sprachen:\nChor I & II: Lass ihn kreuzigen!\nEvangelist: Da aber Pilatus sahe, dass er nichts schaffete, sondern dass ein viel größer Getümmel ward, nahm er Wasser und wusch die Hände vor dem Volk und sprach:\nPilatus: Ich bin unschuldig an dem Blut dieses Gerechten, sehet ihr zu.\nEvangelist: Da antwortete das ganze Volk und sprach:\nChor I & II: Sein Blut komme über uns und unsre Kinder.\nEvangelist: Da gab er ihnen Barrabam los; aber Jesum ließ er geißeln und überantwortete ihn, dass er gekreuziget würde.",
+        "textFrench": "L'Évangéliste : Mais ils n'en crièrent que plus fort :\nChœurs I et II : Qu'il soit crucifié !\nL'Évangéliste : Voyant qu'il n'aboutissait à rien, mais qu'au contraire le tumulte croissait, Pilate prit de l'eau et se lava les mains en présence de la foule, en disant :\nPilate : Je suis innocent du sang de ce juste ; à vous de voir !\nL'Évangéliste : Tout le peuple répondit :\nChœurs I et II : Que son sang retombe sur nous et sur nos enfants !\nL'Évangéliste : Alors il leur relâcha Barabbas ; quant à Jésus, après l'avoir fait flageller, il le livra pour être crucifié."
+      },
+      {
+        "number": "51",
+        "type": "Récitatif",
+        "voice": "Alto",
+        "scoring": "cordes, continuo",
+        "textGerman": "Erbarm es Gott!\nHier steht der Heiland angebunden.\nO Geißelung, o Schläg, o Wunden!\nIhr Henker, haltet ein!\nErweichet euch\nDer Seelen Schmerz,\nDer Anblick solches Jammers nicht?\nAch ja! ihr habt ein Herz,\nDas muss der Martersäule gleich\nUnd noch viel härter sein.\nErbarmt euch, haltet ein!",
+        "textFrench": "Dieu prends pitié !\nVoici le Sauveur, lié.\nÔ flagellation, ô coups, ô plaies !\nBourreaux, arrêtez !\nLa douleur de l'âme\nNe vous attendrit-elle pas,\nNi la vue de tant de souffrance ?\nAh oui ! vous avez un cœur\nQui doit être pareil au pilier du supplice,\nEt plus dur encore.\nAyez pitié, arrêtez !"
+      },
+      {
+        "number": "52",
+        "type": "Aria",
+        "voice": "Alto",
+        "scoring": "violons en unisson, continuo",
+        "textGerman": "Können Tränen meiner Wangen\nNichts erlangen,\nO, so nehmt mein Herz hinein!\nAber lasst es bei den Fluten,\nWenn die Wunden milde bluten,\nAuch die Opferschale sein!",
+        "textFrench": "Si les larmes de mes joues\nNe peuvent rien obtenir,\nÔ, prenez alors mon cœur !\nMais qu'il soit, parmi les flots,\nQuand les plaies saignent doucement,\nAussi la coupe du sacrifice !"
+      },
+      {
+        "number": "53",
+        "type": "Récitatif et chœur (turba)",
+        "voice": "Évangéliste, double chœur",
+        "scoring": "continuo",
+        "textGerman": "Evangelist: Da nahmen die Kriegsknechte des Landpflegers Jesum zu sich in das Richthaus und sammleten über ihn die ganze Schar und zogen ihn aus und legeten ihm einen Purpurmantel an und flochten eine dornene Krone und satzten sie auf sein Haupt und ein Rohr in seine rechte Hand und beugeten die Knie vor ihm und spotteten ihn und sprachen:\nChor I & II: Gegrüßet seist du, Jüdenkönig!\nEvangelist: Und speieten ihn an und nahmen das Rohr und schlugen damit sein Haupt.",
+        "textFrench": "L'Évangéliste : Alors les soldats du gouverneur emmenèrent Jésus dans le prétoire et rassemblèrent autour de lui toute la cohorte. Ils le dévêtirent et lui mirent un manteau pourpre ; puis, ayant tressé une couronne d'épines, ils la placèrent sur sa tête, et un roseau dans sa main droite ; et, fléchissant le genou devant lui, ils se moquèrent de lui en disant :\nChœurs I et II : Salut, roi des Juifs !\nL'Évangéliste : Et ils lui crachaient dessus, prenaient le roseau et lui en donnaient des coups sur la tête."
+      },
+      {
+        "number": "54",
+        "type": "Choral",
+        "voice": "SATB",
+        "scoring": "flûtes, hautbois, cordes, continuo",
+        "textGerman": "O Haupt voll Blut und Wunden,\nVoll Schmerz und voller Hohn,\nO Haupt, zu Spott gebunden\nMit einer Dornenkron,\nO Haupt, sonst schön gezieret\nMit höchster Ehr und Zier,\nJetzt aber hoch schimpfieret,\nGegrüßet seist du mir!\n\nDu edles Angesichte,\nDavor sonst schrickt und scheut\nDas große Weltgewichte,\nWie bist du so bespeit;\nWie bist du so erbleichet!\nWer hat dein Augenlicht,\nDem sonst kein Licht nicht gleichet,\nSo schändlich zugericht'?",
+        "textFrench": "Ô tête couverte de sang et de plaies,\nPleine de douleur et d'outrage,\nÔ tête, par dérision ceinte\nD'une couronne d'épines,\nÔ tête, autrefois parée\nDe la plus haute gloire,\nMaintenant si gravement humiliée,\nJe te salue !\n\nÔ noble visage,\nDevant lequel se prosterne et tremble\nLe poids du monde entier,\nComme te voilà couvert de crachats,\nComme te voilà pâli !\nQui a si honteusement\nFlétri tes regards, à qui aucune lumière\nNe peut être comparée ?"
+      },
+      {
+        "number": "55",
+        "type": "Récitatif",
+        "voice": "Évangéliste",
+        "scoring": "continuo",
+        "textGerman": "Evangelist: Und da sie ihn verspottet hatten, zogen sie ihm den Mantel aus und zogen ihm seine Kleider an und führeten ihn hin, dass sie ihn kreuzigten. Und indem sie hinausgingen, funden sie einen Menschen von Kyrene mit Namen Simon; den zwungen sie, dass er ihm sein Kreuz trug.",
+        "textFrench": "L'Évangéliste : Quand ils l'eurent ainsi tourné en dérision, ils lui ôtèrent le manteau, lui remirent ses vêtements et l'emmenèrent pour le crucifier. En sortant, ils rencontrèrent un homme de Cyrène nommé Simon ; ils le requirent pour porter sa croix."
+      },
+      {
+        "number": "56",
+        "type": "Récitatif",
+        "voice": "Basse",
+        "scoring": "flûtes, viole de gambe, continuo",
+        "textGerman": "Ja freilich will in uns das Fleisch und Blut\nZum Kreuz gezwungen sein;\nJe mehr es unsrer Seele gut,\nJe herber geht es ein.",
+        "textFrench": "Oui, sans doute, en nous la chair et le sang\nDoivent être contraints à la croix ;\nPlus elle est bénéfique à notre âme,\nPlus amèrement elle se prend."
+      },
+      {
+        "number": "57",
+        "type": "Aria",
+        "voice": "Basse",
+        "scoring": "viole de gambe obligée, continuo",
+        "textGerman": "Komm, süßes Kreuz, so will ich sagen,\nMein Jesu, gib es immer her!\nWird mir mein Leiden einst zu schwer,\nSo hilf du mir es selber tragen.",
+        "textFrench": "Viens, douce croix, je le veux dire,\nMon Jésus, donne-la moi toujours !\nSi un jour mes souffrances me sont trop lourdes,\nAlors aide-moi toi-même à les porter."
+      },
+      {
+        "number": "58",
+        "type": "Récitatif et chœurs (turbae)",
+        "voice": "Évangéliste, double chœur",
+        "scoring": "continuo",
+        "textGerman": "Evangelist: Und da sie an die Stätte kamen mit Namen Golgatha, das ist verdeutschet Schädelstätt, gaben sie ihm Essig zu trinken mit Gallen vermischet; und da er's schmeckete, wollte er's nicht trinken. Da sie ihn aber gekreuziget hatten, teilten sie seine Kleider und wurfen das Los darum, auf dass erfüllet würde, das gesagt ist durch den Propheten: \"Sie haben meine Kleider unter sich geteilet, und über mein Gewand haben sie das Los geworfen.\" Und sie saßen allda und hüteten sein. Und oben zu seinen Häupten hefteten sie die Ursach seines Todes beschrieben, nämlich: \"Dies ist Jesus, der Jüden König.\" Und da wurden zween Mörder mit ihm gekreuziget, einer zur Rechten und einer zur Linken. Die aber vorübergingen, lästerten ihn und schüttelten ihre Köpfe und sprachen:\nChor I & II: Der du den Tempel Gottes zerbrichst und bauest ihn in dreien Tagen, hilf dir selber! Bist du Gottes Sohn, so steig herab vom Kreuz!\nEvangelist: Desgleichen auch die Hohenpriester spotteten sein samt den Schriftgelehrten und Ältesten und sprachen:\nChor I & II: Andern hat er geholfen und kann ihm selber nicht helfen. Ist er der König Israel, so steige er nun vom Kreuz, so wollen wir ihm glauben. Er hat Gott vertrauet, der erlöse ihn nun, lüstet's ihn; denn er hat gesagt: Ich bin Gottes Sohn.\nEvangelist: Desgleichen schmäheten ihn auch die Mörder, die mit ihm gekreuziget waren.",
+        "textFrench": "L'Évangéliste : Arrivés au lieu dit Golgotha, ce qui signifie Lieu du Crâne, ils lui donnèrent à boire du vin mêlé de fiel ; mais l'ayant goûté, il ne voulut pas en boire. Après l'avoir crucifié, ils se partagèrent ses vêtements en tirant au sort, afin que s'accomplît ce que le prophète avait dit : « Ils se sont partagé mes vêtements et ont tiré au sort ma tunique. » Puis, s'étant assis, ils restaient là à le garder. Au-dessus de sa tête, ils placèrent l'inscription du motif de sa condamnation : « Celui-ci est Jésus, le roi des Juifs. » Avec lui furent crucifiés deux brigands, l'un à sa droite, l'autre à sa gauche. Les passants l'injuriaient et hochaient la tête en disant :\nChœurs I et II : Toi qui détruis le Temple de Dieu et le rebâtis en trois jours, sauve-toi toi-même ! Si tu es Fils de Dieu, descends de la croix !\nL'Évangéliste : De même les grands prêtres, avec les scribes et les anciens, le bafouaient en disant :\nChœurs I et II : Il en a sauvé d'autres et il ne peut se sauver lui-même ! Il est roi d'Israël ; qu'il descende maintenant de la croix, et nous croirons en lui. Il a mis sa confiance en Dieu ; que celui-ci le délivre maintenant, s'il l'aime ! Car il a dit : Je suis Fils de Dieu.\nL'Évangéliste : Et les brigands crucifiés avec lui l'insultaient de la même manière."
+      },
+      {
+        "number": "59",
+        "type": "Récitatif",
+        "voice": "Alto",
+        "scoring": "2 hautbois da caccia, continuo",
+        "textGerman": "Ach Golgatha, unselges Golgatha!\nDer Herr der Herrlichkeit muss schimpflich hier verderben,\nDer Segen und das Heil der Welt\nWird als ein Fluch ans Kreuz gestellt.\nDer Schöpfer Himmels und der Erden\nSoll Erd und Luft entzogen werden;\nDie Unschuld muss hier schuldig sterben,\nDas gehet meiner Seele nah;\nAch Golgatha, unselges Golgatha!",
+        "textFrench": "Ah, Golgotha, malheureux Golgotha !\nLe Seigneur de gloire doit ici périr ignominieusement,\nLa bénédiction et le salut du monde\nSont mis en croix comme une malédiction.\nLe Créateur du ciel et de la terre\nSe voit retirer la terre et l'air ;\nL'Innocence doit ici mourir en coupable :\nCela me touche jusqu'au fond de l'âme ;\nAh, Golgotha, malheureux Golgotha !"
+      },
+      {
+        "number": "60",
+        "type": "Aria avec chœur",
+        "voice": "Alto, chœur II",
+        "scoring": "2 hautbois da caccia, cordes, continuo",
+        "textGerman": "Alt (Chor I): Sehet, Jesus hat die Hand,\nUns zu fassen, ausgespannt,\nKommt!\nChor II: Wohin?\nAlt: In Jesu Armen\nSucht Erlösung, nehmt Erbarmen,\nSuchet!\nChor II: Wo?\nAlt: In Jesu Armen.\nLebet, sterbet, ruhet hier,\nIhr verlass'nen Küchlein ihr,\nBleibet!\nChor II: Wo?\nAlt: In Jesu Armen.",
+        "textFrench": "Alto (Chœur I) : Voyez, Jésus a tendu la main\nPour nous saisir,\nVenez !\nChœur II : Où ?\nAlto : Dans les bras de Jésus\nCherchez la rédemption, recevez la miséricorde,\nCherchez !\nChœur II : Où ?\nAlto : Dans les bras de Jésus.\nVivez, mourez, reposez ici,\nVous, poussins délaissés,\nDemeurez !\nChœur II : Où ?\nAlto : Dans les bras de Jésus."
+      },
+      {
+        "number": "61",
+        "type": "Récitatif et chœur (turba)",
+        "voice": "Évangéliste, Jésus, chœur",
+        "scoring": "continuo (le halo de cordes disparaît au moment du cri de déréliction)",
+        "textGerman": "Evangelist: Und von der sechsten Stunde an war eine Finsternis über das ganze Land bis zu der neunten Stunde. Und um die neunte Stunde schriee Jesus laut und sprach:\nJesus: Eli, Eli, lama asabthani?\nEvangelist: Das ist: Mein Gott, mein Gott, warum hast du mich verlassen? Etliche aber, die da stunden, da sie das höreten, sprachen sie:\nChor I: Der rufet dem Elias!\nEvangelist: Und bald lief einer unter ihnen, nahm einen Schwamm und füllete ihn mit Essig und steckete ihn auf ein Rohr und tränkete ihn. Die andern aber sprachen:\nChor II: Halt! Lass sehen, ob Elias komme und ihm helfe?\nEvangelist: Aber Jesus schriee abermal laut und verschied.",
+        "textFrench": "L'Évangéliste : À partir de la sixième heure, il y eut des ténèbres sur toute la terre, jusqu'à la neuvième heure. Vers la neuvième heure, Jésus cria d'une voix forte :\nJésus : Eli, Eli, lama sabachthani ?\nL'Évangéliste : C'est-à-dire : Mon Dieu, mon Dieu, pourquoi m'as-tu abandonné ? Quelques-uns des assistants, l'entendant, dirent :\nChœur I : Il appelle Élie !\nL'Évangéliste : Aussitôt l'un d'eux courut prendre une éponge, l'imbiba de vinaigre, et, l'ayant fixée à un roseau, il lui donnait à boire. Mais les autres dirent :\nChœur II : Arrête ! Voyons si Élie va venir le sauver !\nL'Évangéliste : Mais Jésus, jetant de nouveau un grand cri, rendit l'esprit."
+      },
+      {
+        "number": "62",
+        "type": "Choral",
+        "voice": "SATB",
+        "scoring": "flûtes, hautbois, cordes, continuo",
+        "textGerman": "Wenn ich einmal soll scheiden,\nSo scheide nicht von mir,\nWenn ich den Tod soll leiden,\nSo tritt du dann herfür!\nWenn mir am allerbängsten\nWird um das Herze sein,\nSo reiß mich aus den Ängsten\nKraft deiner Angst und Pein!",
+        "textFrench": "Quand un jour je devrai partir,\nNe te sépare pas de moi,\nQuand je devrai souffrir la mort,\nAlors viens à mes côtés !\nQuand le plus grand effroi\nM'étreindra le cœur,\nArrache-moi à mon angoisse\nPar la force de ton angoisse et de ta peine !"
+      },
+      {
+        "number": "63",
+        "type": "Récitatif",
+        "voice": "Évangéliste",
+        "scoring": "continuo",
+        "textGerman": "Evangelist: Und siehe da, der Vorhang im Tempel zerriss in zwei Stück von oben an bis unten aus. Und die Erde erbebete, und die Felsen zerrissen, und die Gräber täten sich auf, und stunden auf viel Leiber der Heiligen, die da schliefen, und gingen aus den Gräbern nach seiner Auferstehung und kamen in die heilige Stadt und erschienen vielen. Aber der Hauptmann und die bei ihm waren und bewahreten Jesum, da sie sahen das Erdbeben und was da geschah, erschraken sie sehr und sprachen:\nChor I & II: Wahrlich, dieser ist Gottes Sohn gewesen.\nEvangelist: Und es waren viel Weiber da, die von ferne zusahen, die da waren nachgefolget aus Galiläa und hatten ihm gedienet, unter welchen war Maria Magdalena und Maria, die Mutter Jacobi und Joses, und die Mutter der Kinder Zebedäi.",
+        "textFrench": "L'Évangéliste : Et voici que le voile du Sanctuaire se déchira en deux, du haut en bas ; la terre trembla, les rochers se fendirent, les tombeaux s'ouvrirent, les corps de nombreux saints défunts ressuscitèrent : sortis des tombeaux après sa résurrection, ils entrèrent dans la Ville sainte et apparurent à un grand nombre. Le centurion et les gardes qui veillaient sur Jésus, voyant le tremblement de terre et ce qui s'accomplissait, furent saisis d'une grande crainte et dirent :\nChœurs I et II : Vraiment, celui-ci était Fils de Dieu !\nL'Évangéliste : Il y avait là de nombreuses femmes qui regardaient de loin, celles qui avaient suivi Jésus depuis la Galilée pour le servir. Parmi elles se trouvaient Marie de Magdala, Marie, mère de Jacques et de Joseph, et la mère des fils de Zébédée."
+      },
+      {
+        "number": "64",
+        "type": "Récitatif",
+        "voice": "Basse",
+        "scoring": "cordes, continuo",
+        "textGerman": "Am Abend, da es kühle war,\nWard Adams Fallen offenbar;\nAm Abend drücket ihn der Heiland nieder.\nAm Abend kam die Taube wieder\nUnd trug ein Ölblatt in dem Munde.\nO schöne Zeit! O Abendstunde!\nDer Friedensschluss ist nun mit Gott gemacht,\nDenn Jesus hat sein Kreuz vollbracht.\nSein Leichnam kömmt zur Ruh,\nAch! liebe Seele, bitte du,\nGeh, lasse dir den toten Jesum schenken,\nO heilsames, o köstlichs Angedenken!",
+        "textFrench": "Au soir, à l'heure fraîche,\nLa chute d'Adam fut révélée ;\nAu soir, le Sauveur l'a vaincue.\nAu soir, la colombe revint,\nPortant une feuille d'olivier au bec.\nÔ beau temps ! Ô heure du soir !\nLa paix est désormais conclue avec Dieu,\nCar Jésus a accompli sa croix.\nSon corps va au repos,\nAh ! chère âme, demande,\nVa, fais-toi donner le Jésus mort,\nÔ salutaire, ô précieux souvenir !"
+      },
+      {
+        "number": "65",
+        "type": "Aria",
+        "voice": "Basse",
+        "scoring": "2 hautbois da caccia, cordes, continuo",
+        "textGerman": "Mache dich, mein Herze, rein,\nIch will Jesum selbst begraben.\nDenn er soll nunmehr in mir\nFür und für\nSeine süße Ruhe haben.\nWelt, geh aus, lass Jesum ein!",
+        "textFrench": "Purifie-toi, ô mon cœur,\nJe veux ensevelir Jésus moi-même.\nCar désormais en moi il aura,\nÀ jamais,\nSon doux repos.\nMonde, sors, laisse entrer Jésus !"
+      },
+      {
+        "number": "66",
+        "type": "Récitatif et chœur (turba)",
+        "voice": "Évangéliste, Pilate, chœur",
+        "scoring": "continuo",
+        "textGerman": "Evangelist: Und Joseph nahm den Leib und wickelte ihn in ein rein Leinwand und legte ihn in sein eigen neu Grab, welches er hatte lassen in einen Fels hauen, und wälzete einen großen Stein vor die Tür des Grabes und ging davon. Es war aber allda Maria Magdalena und die andere Maria, die satzten sich gegen das Grab. Des andern Tages, der da folget nach dem Rüsttage, kamen die Hohenpriester und Pharisäer sämtlich zu Pilato und sprachen:\nChor I & II: Herr, wir haben gedacht, dass dieser Verführer sprach, da er noch lebete: Ich will nach dreien Tagen wieder auferstehen. Darum befiehl, dass man das Grab verwahre bis an den dritten Tag, auf dass nicht seine Jünger kommen und stehlen ihn und sagen zu dem Volk: Er ist auferstanden von den Toten, und werde der letzte Betrug ärger denn der erste!\nEvangelist: Pilatus sprach zu ihnen:\nPilatus: Da habt ihr die Hüter; gehet hin und verwahret's, wie ihr's wisset!\nEvangelist: Sie gingen hin und verwahreten das Grab mit Hütern und versiegelten den Stein.",
+        "textFrench": "L'Évangéliste : Joseph prit le corps, l'enveloppa dans un linceul de lin pur et le déposa dans son tombeau neuf, qu'il avait fait tailler dans le rocher ; puis il roula une grande pierre devant l'entrée du tombeau et s'en alla. Marie de Magdala et l'autre Marie étaient là, assises en face du sépulcre. Le lendemain — c'est-à-dire après la Préparation — les grands prêtres et les pharisiens se rendirent en groupe chez Pilate et lui dirent :\nChœurs I et II : Seigneur, nous nous sommes souvenus que cet imposteur a dit, quand il vivait encore : Après trois jours, je ressusciterai. Ordonne donc qu'on surveille le tombeau jusqu'au troisième jour, de peur que ses disciples ne viennent dérober le corps et ne disent au peuple : Il est ressuscité d'entre les morts. Cette dernière imposture serait pire que la première !\nL'Évangéliste : Pilate leur dit :\nPilate : Vous avez une garde, allez et prenez vos sûretés comme vous l'entendez.\nL'Évangéliste : Ils allèrent donc, et s'assurèrent du tombeau en scellant la pierre et en y postant une garde."
+      },
+      {
+        "number": "67",
+        "type": "Récitatif avec chœur",
+        "voice": "Basse, Ténor, Alto, Soprano (chœur II)",
+        "scoring": "cordes, continuo",
+        "textGerman": "Bass (Chor I): Nun ist der Herr zur Ruh gebracht.\nChor II: Mein Jesu, gute Nacht!\nTénor (Chor I): Die Müh ist aus, die unsre Sünden ihm gemacht.\nChor II: Mein Jesu, gute Nacht!\nAlt (Chor I): O selige Gebeine,\nSeht, wie ich euch mit Buß und Reu beweine,\nDass euch mein Fall in solche Not gebracht!\nChor II: Mein Jesu, gute Nacht!\nSoprano (Chor I): Habt lebenslang\nVor euer Leiden tausend Dank,\nDass ihr mein Seelenheil so wert geacht't.\nChor II: Mein Jesu, gute Nacht!",
+        "textFrench": "Basse (Chœur I) : Maintenant le Seigneur est mis au repos.\nChœur II : Mon Jésus, bonne nuit !\nTénor (Chœur I) : Finie la peine que nos péchés lui ont causée.\nChœur II : Mon Jésus, bonne nuit !\nAlto (Chœur I) : Ô bienheureux ossements,\nVoyez comme je vous pleure avec pénitence et repentir,\nDe ce que ma chute vous ait conduits à pareille détresse !\nChœur II : Mon Jésus, bonne nuit !\nSoprano (Chœur I) : Recevez, ma vie durant,\nMille mercis pour votre passion,\nQui a tant estimé le salut de mon âme.\nChœur II : Mon Jésus, bonne nuit !"
+      },
+      {
+        "number": "68",
+        "type": "Chœur",
+        "voice": "Double chœur SATB",
+        "scoring": "flûtes, hautbois, cordes, continuo",
+        "textGerman": "Wir setzen uns mit Tränen nieder\nUnd rufen dir im Grabe zu:\nRuhe sanfte, sanfte ruh!\nRuht, ihr ausgesognen Glieder!\nRuhe sanfte, ruhe wohl!\nEuer Grab und Leichenstein\nSoll dem ängstlichen Gewissen\nEin bequemes Ruhekissen\nUnd der Seelen Ruhstatt sein.\nHöchst vergnügt schlummern da die Augen ein.",
+        "textFrench": "Nous nous prosternons en larmes\nEt te crions dans le tombeau :\nRepose doucement, repose en paix !\nReposez, membres épuisés !\nReposez doucement, reposez bien !\nVotre tombeau et votre pierre tombale\nSeront, à la conscience angoissée,\nUn coussin de repos\nEt pour les âmes un lieu de paix.\nDans la plus grande joie les yeux s'y endorment."
+      }
+    ]
+  }
+}
