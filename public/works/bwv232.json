@@ -1,0 +1,227 @@
+{
+  "work": {
+    "bwv": "BWV 232",
+    "titleGerman": "Messe in h-Moll",
+    "titleFrench": "Messe en si mineur",
+    "metadata": {
+      "date": "Compilée et achevée vers 1748-1749, mais constituée de matériaux étalés sur près de trente ans. Le Kyrie et le Gloria furent présentés dès 1733 à la cour de Dresde ; le Sanctus date de 1724 ; d'autres mouvements sont des parodies de cantates antérieures, magnifiées.",
+      "place": "Leipzig, pour l'essentiel de la compilation finale.",
+      "occasion": "Aucune occasion liturgique de création : l'œuvre, par sa durée et son ampleur, dépasse tout cadre de culte ordinaire, qu'il soit luthérien ou catholique. C'est une somme, un legs — l'ordinaire de la messe porté à son accomplissement, indépendamment de toute exécution prévue. Bach ne l'entendit probablement jamais intégralement.",
+      "librettist": "Texte de l'ordinaire de la messe romaine : Kyrie, Gloria, Credo (Symbolum Nicenum), Sanctus, Osanna, Benedictus, Agnus Dei. Texte liturgique latin invariable.",
+      "scoring": "Soli (généralement SSATB), chœur à quatre, cinq, six et jusqu'à huit voix selon les mouvements ; trois trompettes, timbales, cor, deux flûtes traversières, deux ou trois hautbois (et hautbois d'amore), basson, cordes, basse continue.",
+      "theological": "En réunissant l'ordinaire catholique sous sa plume de cantor luthérien, Bach transcende la division confessionnelle : la Messe en si est œcuménique avant la lettre, profession de foi universelle plus que pièce de culte. Chaque article du Credo reçoit sa figuration propre — l'Incarnatus suspendu, le Crucifixus en passacaille de douleur sur basse chromatique descendante, l'explosion du Et resurrexit. L'œuvre déroule le mystère chrétien complet, de l'imploration du Kyrie à la paix demandée du Dona nobis pacem, qui réemploie la musique du Gratias : la gloire rendue et la paix demandée disent la même chose.",
+      "musical": "Sommet et synthèse de l'art de Bach. L'œuvre embrasse tous les styles : le stile antico de la polyphonie palestrinienne (Credo, Confiteor), le grand concertato baroque avec trompettes (Gloria, Sanctus, Osanna), l'aria da capo de style galant (Laudamus te, Benedictus), le choral figuré. Le chœur passe de quatre à huit voix réelles. Le Crucifixus, treize fois la même basse obstinée, descend vers le silence du tombeau ; l'Et resurrexit jaillit sans transition. Le Sanctus à six voix, écrit dès 1724, est d'une majesté sans équivalent. Bach y rassemble, sublime et clôt tout ce qu'il a su faire.",
+      "interpretations": "Nikolaus Harnoncourt (Concentus Musicus Wien, Teldec) a marqué l'approche historiquement informée. Philippe Herreweghe (Collegium Vocale Gent, Harmonia Mundi, plusieurs enregistrements) fait référence par l'équilibre entre rigueur architecturale et ferveur. John Eliot Gardiner (Monteverdi Choir, Archiv) en donne une version d'un relief saisissant. Masaaki Suzuki (Bach Collegium Japan, BIS) conjugue transparence et intensité. Pour les approches à une voix par partie, les versions d'Andrew Parrott et de Konrad Junghänel ont ouvert une autre perspective. Karl Richter (Archiv) demeure le témoin majeur de l'interprétation d'avant le renouveau baroque."
+    },
+    "movements": [
+      {
+        "number": "1",
+        "type": "Chœur",
+        "voice": "SSATB",
+        "scoring": "flûtes, hautbois d'amore, cordes, continuo",
+        "textGerman": "Kyrie eleison.",
+        "textFrench": "Seigneur, prends pitié."
+      },
+      {
+        "number": "2",
+        "type": "Duo",
+        "voice": "Soprano I, Soprano II",
+        "scoring": "violons, continuo",
+        "textGerman": "Christe eleison.",
+        "textFrench": "Ô Christ, prends pitié."
+      },
+      {
+        "number": "3",
+        "type": "Chœur",
+        "voice": "SATB",
+        "scoring": "cordes, continuo (stile antico)",
+        "textGerman": "Kyrie eleison.",
+        "textFrench": "Seigneur, prends pitié."
+      },
+      {
+        "number": "4",
+        "type": "Chœur",
+        "voice": "SSATB",
+        "scoring": "3 trompettes, timbales, flûtes, hautbois, cordes, continuo",
+        "textGerman": "Gloria in excelsis Deo.",
+        "textFrench": "Gloire à Dieu au plus haut des cieux."
+      },
+      {
+        "number": "5",
+        "type": "Chœur",
+        "voice": "SSATB",
+        "scoring": "3 trompettes, timbales, flûtes, hautbois, cordes, continuo",
+        "textGerman": "Et in terra pax hominibus bonae voluntatis.",
+        "textFrench": "Et paix sur la terre aux hommes de bonne volonté."
+      },
+      {
+        "number": "6",
+        "type": "Aria",
+        "voice": "Soprano II",
+        "scoring": "violon solo, cordes, continuo",
+        "textGerman": "Laudamus te, benedicimus te,\nadoramus te, glorificamus te.",
+        "textFrench": "Nous te louons, nous te bénissons,\nnous t'adorons, nous te glorifions."
+      },
+      {
+        "number": "7",
+        "type": "Chœur",
+        "voice": "SATB",
+        "scoring": "cordes, continuo",
+        "textGerman": "Gratias agimus tibi propter magnam gloriam tuam.",
+        "textFrench": "Nous te rendons grâce pour ta grande gloire."
+      },
+      {
+        "number": "8",
+        "type": "Duo",
+        "voice": "Soprano I, Ténor",
+        "scoring": "flûte traversière, cordes avec sourdine, continuo",
+        "textGerman": "Domine Deus, Rex caelestis, Deus Pater omnipotens.\nDomine Fili unigenite, Jesu Christe altissime.\nDomine Deus, Agnus Dei, Filius Patris.",
+        "textFrench": "Seigneur Dieu, Roi du ciel, Dieu le Père tout-puissant.\nSeigneur, Fils unique, Jésus-Christ très haut.\nSeigneur Dieu, Agneau de Dieu, Fils du Père."
+      },
+      {
+        "number": "9",
+        "type": "Chœur",
+        "voice": "SATB",
+        "scoring": "flûtes, cordes, continuo",
+        "textGerman": "Qui tollis peccata mundi, miserere nobis.\nQui tollis peccata mundi, suscipe deprecationem nostram.",
+        "textFrench": "Toi qui enlèves les péchés du monde, prends pitié de nous.\nToi qui enlèves les péchés du monde, reçois notre prière."
+      },
+      {
+        "number": "10",
+        "type": "Aria",
+        "voice": "Alto",
+        "scoring": "hautbois d'amore, cordes, continuo",
+        "textGerman": "Qui sedes ad dexteram Patris, miserere nobis.",
+        "textFrench": "Toi qui sièges à la droite du Père, prends pitié de nous."
+      },
+      {
+        "number": "11",
+        "type": "Aria",
+        "voice": "Basse",
+        "scoring": "cor, deux bassons, continuo",
+        "textGerman": "Quoniam tu solus sanctus, tu solus Dominus,\ntu solus altissimus, Jesu Christe.",
+        "textFrench": "Car toi seul es saint, toi seul es Seigneur,\ntoi seul es le Très-Haut, Jésus-Christ."
+      },
+      {
+        "number": "12",
+        "type": "Chœur",
+        "voice": "SSATB",
+        "scoring": "3 trompettes, timbales, flûtes, hautbois, cordes, continuo",
+        "textGerman": "Cum Sancto Spiritu in gloria Dei Patris. Amen.",
+        "textFrench": "Avec le Saint-Esprit, dans la gloire de Dieu le Père. Amen."
+      },
+      {
+        "number": "13",
+        "type": "Chœur",
+        "voice": "SSATB",
+        "scoring": "cordes, continuo (stile antico)",
+        "textGerman": "Credo in unum Deum.",
+        "textFrench": "Je crois en un seul Dieu."
+      },
+      {
+        "number": "14",
+        "type": "Chœur",
+        "voice": "SATB",
+        "scoring": "2 violons, continuo",
+        "textGerman": "Patrem omnipotentem, factorem caeli et terrae,\nvisibilium omnium et invisibilium.",
+        "textFrench": "Le Père tout-puissant, créateur du ciel et de la terre,\nde toutes les choses visibles et invisibles."
+      },
+      {
+        "number": "15",
+        "type": "Duo",
+        "voice": "Soprano I, Alto",
+        "scoring": "violons à l'unisson, continuo",
+        "textGerman": "Et in unum Dominum Jesum Christum,\nFilium Dei unigenitum,\net ex Patre natum ante omnia saecula.\nDeum de Deo, lumen de lumine,\nDeum verum de Deo vero.\nGenitum, non factum, consubstantialem Patri:\nper quem omnia facta sunt.\nQui propter nos homines et propter nostram salutem\ndescendit de caelis.",
+        "textFrench": "Et en un seul Seigneur, Jésus-Christ,\nle Fils unique de Dieu,\nné du Père avant tous les siècles.\nDieu né de Dieu, lumière née de la lumière,\nvrai Dieu né du vrai Dieu.\nEngendré, non pas créé, consubstantiel au Père :\npar qui tout a été fait.\nQui, pour nous les hommes et pour notre salut,\nest descendu des cieux."
+      },
+      {
+        "number": "16",
+        "type": "Chœur",
+        "voice": "SSATB",
+        "scoring": "flûtes, cordes, continuo",
+        "textGerman": "Et incarnatus est de Spiritu Sancto\nex Maria Virgine, et homo factus est.",
+        "textFrench": "Et il a pris chair de l'Esprit Saint,\nen la Vierge Marie, et s'est fait homme."
+      },
+      {
+        "number": "17",
+        "type": "Chœur",
+        "voice": "SATB",
+        "scoring": "flûtes, cordes, continuo (basse obstinée)",
+        "textGerman": "Crucifixus etiam pro nobis sub Pontio Pilato,\npassus et sepultus est.",
+        "textFrench": "Il a été crucifié pour nous sous Ponce Pilate,\nil a souffert et il a été enseveli."
+      },
+      {
+        "number": "18",
+        "type": "Chœur",
+        "voice": "SSATB",
+        "scoring": "3 trompettes, timbales, flûtes, hautbois, cordes, continuo",
+        "textGerman": "Et resurrexit tertia die secundum Scripturas,\net ascendit in caelum, sedet ad dexteram Patris.\nEt iterum venturus est cum gloria judicare vivos et mortuos,\ncujus regni non erit finis.",
+        "textFrench": "Et il est ressuscité le troisième jour, selon les Écritures,\net il est monté au ciel, il siège à la droite du Père.\nEt il reviendra dans la gloire pour juger les vivants et les morts,\net son règne n'aura pas de fin."
+      },
+      {
+        "number": "19",
+        "type": "Aria",
+        "voice": "Basse",
+        "scoring": "deux hautbois d'amore, continuo",
+        "textGerman": "Et in Spiritum Sanctum Dominum et vivificantem,\nqui ex Patre Filioque procedit.\nQui cum Patre et Filio simul adoratur et conglorificatur:\nqui locutus est per Prophetas.\nEt unam sanctam catholicam et apostolicam Ecclesiam.",
+        "textFrench": "Et en l'Esprit Saint, Seigneur et qui donne la vie,\nqui procède du Père et du Fils.\nQui, avec le Père et le Fils, reçoit même adoration et même gloire :\nqui a parlé par les Prophètes.\nEt en l'Église une, sainte, catholique et apostolique."
+      },
+      {
+        "number": "20",
+        "type": "Chœur",
+        "voice": "SATB puis SSATB",
+        "scoring": "continuo, puis cordes et hautbois (stile antico puis allegro)",
+        "textGerman": "Confiteor unum baptisma in remissionem peccatorum.\nEt expecto resurrectionem mortuorum,\net vitam venturi saeculi. Amen.",
+        "textFrench": "Je confesse un seul baptême pour la rémission des péchés.\nEt j'attends la résurrection des morts,\net la vie du monde à venir. Amen."
+      },
+      {
+        "number": "21",
+        "type": "Chœur",
+        "voice": "SSAATTBB",
+        "scoring": "3 trompettes, timbales, hautbois, cordes, continuo",
+        "textGerman": "Sanctus, Sanctus, Sanctus Dominus Deus Sabaoth.\nPleni sunt caeli et terra gloria ejus.",
+        "textFrench": "Saint, Saint, Saint le Seigneur, Dieu de l'univers.\nLe ciel et la terre sont remplis de sa gloire."
+      },
+      {
+        "number": "22",
+        "type": "Chœur",
+        "voice": "SSAATB (double chœur)",
+        "scoring": "3 trompettes, timbales, flûtes, hautbois, cordes, continuo",
+        "textGerman": "Osanna in excelsis.",
+        "textFrench": "Hosanna au plus haut des cieux."
+      },
+      {
+        "number": "23",
+        "type": "Aria",
+        "voice": "Ténor",
+        "scoring": "flûte traversière, continuo",
+        "textGerman": "Benedictus qui venit in nomine Domini.",
+        "textFrench": "Béni soit celui qui vient au nom du Seigneur."
+      },
+      {
+        "number": "24",
+        "type": "Chœur (reprise)",
+        "voice": "SSAATB (double chœur)",
+        "scoring": "3 trompettes, timbales, flûtes, hautbois, cordes, continuo",
+        "textGerman": "Osanna in excelsis.",
+        "textFrench": "Hosanna au plus haut des cieux."
+      },
+      {
+        "number": "25",
+        "type": "Aria",
+        "voice": "Alto",
+        "scoring": "violons à l'unisson, continuo",
+        "textGerman": "Agnus Dei, qui tollis peccata mundi, miserere nobis.",
+        "textFrench": "Agneau de Dieu, qui enlèves les péchés du monde, prends pitié de nous."
+      },
+      {
+        "number": "26",
+        "type": "Chœur",
+        "voice": "SATB",
+        "scoring": "cordes, continuo",
+        "textGerman": "Dona nobis pacem.",
+        "textFrench": "Donne-nous la paix."
+      }
+    ]
+  }
+}
