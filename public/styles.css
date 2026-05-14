@@ -1,8 +1,8 @@
 /* ═══════════════════════════════════════════════════════════════
-   BACH EXPLORER — Styles — v2
+   BACH EXPLORER — Styles — v2.1
    Optimisé pour lecture en concert, faible luminosité, iPhone
    ───────────────────────────────────────────────────────────────
-   Principe v2 : l'ambre est RÉSERVÉ au contenu musical et liturgique.
+   Principe : l'ambre est RÉSERVÉ au contenu musical et liturgique.
    Les éléments d'interface (boutons, contrôles) relèvent d'une
    famille visuelle distincte — sépia sourd, sans-serif, discrète.
    ═══════════════════════════════════════════════════════════════ */
@@ -280,7 +280,7 @@ input {
   border-color: var(--gold);
 }
 
-/* Bouton Chercher : c'est l'action principale — il garde l'ambre,
+/* Bouton Chercher : action principale — garde l'ambre,
    mais en sans-serif pour signaler sa nature de commande. */
 .search-button {
   width: 100%;
@@ -644,4 +644,70 @@ input {
     padding-top: 0;
     border-top: none;
   }
+}
+
+/* ───────────────────────────────────────────────
+   HISTORIQUE — bouton « Récents » et liste dépliable
+   Famille interface : sépia sourd, sans-serif, discrète.
+   Le bloc est injecté par app.js sous le bloc de recherche.
+   ─────────────────────────────────────────────── */
+.recents-block {
+  margin-top: 28px;
+  text-align: center;
+}
+
+/* Bouton bascule « Récents » : discret, dans la famille interface */
+.recents-toggle {
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ui-text);
+  border: 1px solid var(--ui-line);
+  background: var(--ui-fill);
+  padding: 8px 18px;
+  border-radius: 4px;
+  min-height: 38px;
+  transition: background 0.15s ease;
+}
+
+.recents-toggle:active {
+  background: var(--ui-fill-active);
+}
+
+/* Liste dépliée : alignée à gauche, aérée */
+.recents-list {
+  margin-top: 14px;
+  text-align: left;
+  border-top: 1px solid var(--border-soft);
+  padding-top: 8px;
+}
+
+/* Chaque entrée de l'historique */
+.recents-item {
+  display: block;
+  width: 100%;
+  text-align: left;
+  padding: 10px 8px;
+  border-radius: 4px;
+  min-height: 44px;
+  transition: background 0.15s ease;
+}
+
+.recents-item:active {
+  background: var(--bg-elevated);
+}
+
+.recents-bwv {
+  font-family: "Courier New", monospace;
+  font-size: 12px;
+  color: var(--gold);          /* le BWV est du contenu : ambre */
+  letter-spacing: 0.08em;
+  margin-right: 10px;
+}
+
+.recents-title {
+  font-family: Georgia, serif;
+  font-size: 14px;
+  color: var(--text-meta);
 }
