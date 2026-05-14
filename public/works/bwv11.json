@@ -1,0 +1,107 @@
+{
+  "work": {
+    "bwv": "BWV 11",
+    "titleGerman": "Lobet Gott in seinen Reichen (Himmelfahrts-Oratorium)",
+    "titleFrench": "Louez Dieu dans ses royaumes (Oratorio de l'Ascension)",
+    "metadata": {
+      "date": "Créé le jour de l'Ascension, 19 mai 1735.",
+      "place": "Leipzig.",
+      "occasion": "Fête de l'Ascension. L'œuvre porte le titre d'« oratorio » comme les BWV 248 (Noël) et 249 (Pâques), avec lesquels elle forme un triptyque.",
+      "librettist": "Livret anonyme, peut-être de Picander. Récitatifs évangéliques compilés d'après Luc 24, Actes 1 et Marc 16. Chorals de Johann Rist (n°6) et Gottfried Wilhelm Sacer (n°11).",
+      "scoring": "Soli SATB, chœur à quatre voix ; trois trompettes, timbales, deux flûtes traversières, deux hautbois, cordes, basse continue.",
+      "theological": "L'Ascension clôt le temps pascal : le Christ quitte les disciples mais promet l'Esprit. L'œuvre tient ensemble deux affects — la jubilation de la glorification et le déchirement de la séparation. Le chœur d'ouverture éclate de trompettes ; mais l'aria d'alto « Ach, bleibe doch » est une supplication déchirante de l'âme qui ne veut pas voir partir l'aimé. Le choral final, sur les trompettes triomphales, transforme l'attente en certitude : le départ prépare le retour.",
+      "musical": "Souvent appelée la plus belle des cantates brèves de Bach. Le chœur d'ouverture, en ré majeur, est une parodie d'une cantate profane perdue. L'aria d'alto « Ach, bleibe doch, mein liebstes Leben » deviendra l'Agnus Dei de la Messe en si mineur — l'une des migrations les plus célèbres du corpus. L'aria de soprano « Jesu, deine Gnadenblicke », sans basse continue (les instruments graves se taisent), figure musicalement l'absence du Christ par l'absence du fondement harmonique. Onze numéros d'une concision et d'une intensité remarquables.",
+      "interpretations": "Philippe Herreweghe (Collegium Vocale Gent, Harmonia Mundi) en donne une lecture d'équilibre et de ferveur. John Eliot Gardiner (Monteverdi Choir, dans le cadre du Pèlerinage des Cantates) privilégie l'éclat. Masaaki Suzuki (Bach Collegium Japan, BIS) conjugue transparence et émotion contenue. Karl Richter (Münchener Bach-Chor, Archiv) en propose une version ample et solennelle, témoin d'une autre époque d'interprétation."
+    },
+    "movements": [
+      {
+        "number": "1",
+        "type": "Chœur",
+        "voice": "SATB",
+        "scoring": "3 trompettes, timbales, flûtes, hautbois, cordes, continuo",
+        "textGerman": "Lobet Gott in seinen Reichen,\npreiset ihn in seinen Ehren,\nrühmet ihn in seiner Pracht;\nsucht sein Lob recht zu vergleichen,\nwenn ihr mit gesamten Chören\nihm ein Lied zu Ehren macht!",
+        "textFrench": "Louez Dieu dans ses royaumes,\ncélébrez-le dans sa gloire,\nexaltez-le dans sa splendeur ;\ncherchez à dignement le louer,\nlorsque, en chœurs réunis,\nvous composez un chant à son honneur !"
+      },
+      {
+        "number": "2",
+        "type": "Récitatif",
+        "voice": "Évangéliste (Ténor)",
+        "scoring": "continuo",
+        "textGerman": "Der Herr Jesus hub seine Hände auf und segnete seine Jünger, und es geschah, da er sie segnete, schied er von ihnen.",
+        "textFrench": "Le Seigneur Jésus leva les mains et bénit ses disciples ; et il advint, comme il les bénissait, qu'il se sépara d'eux."
+      },
+      {
+        "number": "3",
+        "type": "Récitatif",
+        "voice": "Basse",
+        "scoring": "2 flûtes, continuo",
+        "textGerman": "Ach, Jesu, ist dein Abschied so geschwind?\nMuss ich dich so bald verlieren\nund mich des Trostes so bald entwöhnen,\nvon deiner Liebe,\nvon deiner Hulde,\ndie du mir hast geschenkt?",
+        "textFrench": "Ah, Jésus, ton départ est-il si soudain ?\nDois-je te perdre si vite\net me déshabituer si tôt de la consolation,\nde ton amour,\nde ta grâce,\nque tu m'avais donnés ?"
+      },
+      {
+        "number": "4",
+        "type": "Aria",
+        "voice": "Alto",
+        "scoring": "violons à l'unisson, continuo",
+        "textGerman": "Ach, bleibe doch, mein liebstes Leben,\nach, fliehe nicht so bald von mir!\nDein Abschied und dein frühes Scheiden\nbringt mir das allergrößte Leiden.\nAch ja, so bleibe doch noch hier;\nsonst werd ich ganz von Schmerz umgeben.",
+        "textFrench": "Ah, reste donc, ma vie la plus chère,\nah, ne fuis pas si vite loin de moi !\nTon départ et ta séparation précoce\nm'apportent la plus grande des souffrances.\nAh oui, reste donc encore ici ;\nsinon je serai tout entouré de douleur."
+      },
+      {
+        "number": "5",
+        "type": "Récitatif",
+        "voice": "Évangéliste (Ténor)",
+        "scoring": "continuo",
+        "textGerman": "Und ward aufgehoben zusehends und fuhr auf gen Himmel, eine Wolke nahm ihn weg vor ihren Augen, und er sitzet zur rechten Hand Gottes.",
+        "textFrench": "Et il fut élevé sous leurs regards et monta au ciel ; une nuée le déroba à leurs yeux, et il est assis à la droite de Dieu."
+      },
+      {
+        "number": "6",
+        "type": "Choral",
+        "voice": "SATB",
+        "scoring": "flûtes, hautbois, cordes, continuo",
+        "textGerman": "Nun lieget alles unter dir,\ndich selbst nur ausgenommen;\ndie Engel müssen für und für\ndir aufzuwarten kommen.\nDie Fürsten stehn auch auf der Bahn\nund sind dir willig untertan;\nLuft, Wasser, Feuer, Erden\nmuss dir zu Dienste werden.",
+        "textFrench": "Maintenant tout repose sous ton autorité,\nà l'exception de toi seul ;\nles anges doivent à jamais\nvenir te servir.\nLes princes aussi se tiennent sur le chemin\net te sont volontiers soumis ;\nl'air, l'eau, le feu, la terre\ndoivent se mettre à ton service."
+      },
+      {
+        "number": "7",
+        "type": "Récitatif",
+        "voice": "Ténor, Basse (les deux hommes en blanc)",
+        "scoring": "continuo",
+        "textGerman": "Evangelist: Und da sie ihm nachsahen gen Himmel fahren, siehe, da stunden bei ihnen zwei Männer in weißen Kleidern, welche auch sagten:\nDie beiden Männer: Ihr Männer von Galiläa, was stehet ihr und sehet gen Himmel? Dieser Jesus, welcher von euch ist aufgenommen gen Himmel, wird kommen, wie ihr ihn gesehen habt gen Himmel fahren.",
+        "textFrench": "L'Évangéliste : Et comme ils le regardaient monter au ciel, voici, deux hommes en vêtements blancs se tinrent près d'eux et leur dirent :\nLes deux hommes : Hommes de Galilée, pourquoi restez-vous là à regarder le ciel ? Ce Jésus, qui a été enlevé d'auprès de vous vers le ciel, reviendra de la même manière que vous l'avez vu monter au ciel."
+      },
+      {
+        "number": "8",
+        "type": "Récitatif",
+        "voice": "Alto",
+        "scoring": "2 flûtes, continuo",
+        "textGerman": "Ach ja! so komme bald zurück;\ntilg einst mein trauriges Gebärden,\nsonst wird mir jeder Augenblick\nverhasst und Jahren ähnlich werden.",
+        "textFrench": "Ah oui ! reviens donc bientôt ;\nefface enfin mes tristes manières,\nsinon chaque instant me deviendra\nodieux et semblable à des années."
+      },
+      {
+        "number": "9",
+        "type": "Récitatif",
+        "voice": "Évangéliste (Ténor)",
+        "scoring": "continuo",
+        "textGerman": "Sie aber beteten ihn an, wandten um gen Jerusalem von dem Berge, der da heißet der Ölberg, welcher ist nahe bei Jerusalem und liegt einen Sabbater-Weg davon, und sie kehrten wieder gen Jerusalem mit großer Freude.",
+        "textFrench": "Mais ils l'adorèrent et retournèrent à Jérusalem depuis la montagne appelée mont des Oliviers, qui est près de Jérusalem, à la distance d'un chemin de sabbat ; et ils revinrent à Jérusalem avec une grande joie."
+      },
+      {
+        "number": "10",
+        "type": "Aria",
+        "voice": "Soprano",
+        "scoring": "flûtes, hautbois, violons (sans basse continue)",
+        "textGerman": "Jesu, deine Gnadenblicke\nkann ich doch beständig sehn.\nDeine Liebe bleibt zurücke,\ndass ich mich hier in der Zeit\nan der künftgen Herrlichkeit\nschon voraus im Geist erquicke,\nwenn wir einst dort vor dir stehn.",
+        "textFrench": "Jésus, tes regards de grâce,\nje peux pourtant les voir sans cesse.\nTon amour demeure ici-bas,\nafin qu'en ce temps présent\nje me réconforte déjà en esprit,\npar avance, de la gloire future,\nquand un jour nous nous tiendrons là devant toi."
+      },
+      {
+        "number": "11",
+        "type": "Choral",
+        "voice": "SATB",
+        "scoring": "3 trompettes, timbales, flûtes, hautbois, cordes, continuo",
+        "textGerman": "Wenn soll es doch geschehen,\nwenn kömmt die liebe Zeit,\ndass ich ihn werde sehen\nin seiner Herrlichkeit?\nDu Tag, wenn wirst du sein,\ndass wir den Heiland grüßen,\ndass wir den Heiland küssen?\nKomm, stelle dich doch ein!",
+        "textFrench": "Quand donc cela arrivera-t-il,\nquand viendra le temps bienheureux\noù je le verrai\ndans sa gloire ?\nÔ jour, quand seras-tu là,\nque nous saluerons le Sauveur,\nque nous embrasserons le Sauveur ?\nViens, parais enfin !"
+      }
+    ]
+  }
+}
