@@ -12,7 +12,7 @@
       "theological": "L'Oratorio n'est pas une œuvre unique mais un cycle : il déroule le mystère de l'Incarnation jour après jour, de la Nativité à l'adoration des mages. Bach y articule récit évangélique, méditation lyrique et hymnodie communautaire. La deuxième partie, pastorale, autour des bergers, contraste avec l'éclat trompettant des parties encadrantes. Le choral final de la sixième partie reprend la mélodie de la Passion (« O Haupt voll Blut und Wunden »), nouée ici de trompettes triomphales : la crèche regarde déjà vers la croix et la victoire.",
       "musical": "Chef-d'œuvre de la technique de parodie : Bach réemploie et sublime la musique de cantates d'hommage profanes, réajustant le texte avec un art consommé. L'unité du cycle est assurée par des récurrences tonales et thématiques, et par le grand choral migrateur. La Sinfonia pastorale qui ouvre la deuxième partie, en 12/8, est l'une des pages les plus célèbres — dialogue des cordes (les anges) et des hautbois (les bergers). Chaque partie a sa couleur instrumentale propre : trompettes et timbales pour I, III, VI ; cors pour IV ; hautbois pastoraux pour II.",
       "interpretations": "Nikolaus Harnoncourt (Concentus Musicus Wien, Teldec) a ouvert la voie historiquement informée. Philippe Herreweghe (Collegium Vocale Gent, Harmonia Mundi) en donne une lecture d'équilibre et de ferveur. John Eliot Gardiner (Monteverdi Choir, Archiv) privilégie l'éclat et l'allant. Masaaki Suzuki (Bach Collegium Japan, BIS) et René Jacobs (Akademie für Alte Musik Berlin) figurent aussi parmi les références modernes.",
-      "structure": "L'œuvre compte 64 numéros répartis en six parties (cantates). Le présent fichier donne la structure d'ensemble et le détail des deux premières parties ; les parties III à VI sont résumées par leurs numéros d'ouverture et de clôture. Pour le détail intégral d'une partie, on pourra interroger l'œuvre par sa partie (ex. « Oratorio de Noël 2e partie »)."
+      "structure": "L'œuvre compte 64 numéros répartis en six parties (cantates), ici détaillés intégralement. Première partie : 9 numéros (n°1-9, Premier jour de Noël). Deuxième partie : 14 numéros (n°10-23, Deuxième jour de Noël, partie pastorale). Troisième partie : 12 numéros (n°24-35, Troisième jour de Noël). Quatrième partie : 7 numéros (n°36-42, Fête de la Circoncision / Jour de l'An). Cinquième partie : 11 numéros (n°43-53, Dimanche après le Jour de l'An). Sixième partie : 11 numéros (n°54-64, Épiphanie). Trompettes et timbales pour I, III et VI ; hautbois pastoraux pour II ; cors pour IV ; hautbois d'amore intimiste pour V. Le choral final (n°64) reprend la mélodie de la Passion (« O Haupt voll Blut und Wunden ») couronnée de trompettes triomphales."
     },
     "movements": [
       {
@@ -200,36 +200,332 @@
         "textFrench": "Nous te chantons, au milieu de ton armée,\nde toutes nos forces, louange, gloire et honneur,\nparce que toi, hôte si longtemps désiré,\ntu es enfin venu parmi nous."
       },
       {
-        "number": "III — 24 à 35",
-        "type": "Troisième partie (résumé)",
-        "voice": "—",
+        "number": "III — 24",
+        "type": "Chœur",
+        "voice": "SATB",
         "scoring": "3 trompettes, timbales, flûtes, hautbois, cordes, continuo",
-        "textGerman": "Troisième jour de Noël. Chœur d'ouverture « Herrscher des Himmels, erhöre das Lallen » (n°24, repris en clôture n°35). Récit de la visite des bergers à la crèche et de leur retour, méditation de Marie qui « garde toutes ces paroles en son cœur ». Comprend le duo Soprano/Basse « Herr, dein Mitleid » et l'aria d'alto « Schließe, mein Herze, dies selige Wunder ».",
-        "textFrench": "Troisième jour de Noël. Chœur d'ouverture « Souverain du ciel, exauce nos balbutiements » (n°24, repris en clôture au n°35). Récit de la visite des bergers à la crèche et de leur retour, méditation de Marie qui « gardait toutes ces choses dans son cœur ». Comprend le duo Soprano/Basse « Seigneur, ta compassion » et l'aria d'alto « Enferme, mon cœur, ce bienheureux miracle »."
+        "textGerman": "Herrscher des Himmels, erhöre das Lallen,\nlass dir die matten Gesänge gefallen,\nwenn dich dein Zion mit Psalmen erhöht!\nHöre der Herzen frohlockendes Preisen,\nwenn wir dir itzo die Ehrfurcht erweisen,\nweil unsre Wohlfahrt befestiget steht!",
+        "textFrench": "Souverain du ciel, exauce nos balbutiements,\nagrée nos chants alanguis,\nlorsque ton Sion t'exalte par les psaumes !\nÉcoute la louange jubilante des cœurs,\nlorsque nous te témoignons aujourd'hui notre révérence,\ncar notre salut désormais est affermi !"
       },
       {
-        "number": "IV — 36 à 42",
-        "type": "Quatrième partie (résumé)",
-        "voice": "—",
-        "scoring": "2 cors, hautbois, cordes, continuo",
-        "textGerman": "Fête de la Circoncision (Jour de l'An). Chœur d'ouverture « Fallt mit Danken, fallt mit Loben ». Méditation sur le Nom de Jésus (Luc 2, 21). Comprend l'aria de soprano avec écho « Flößt, mein Heiland, flößt dein Namen » et l'aria de ténor « Ich will nur dir zu Ehren leben ». Couleur instrumentale des cors, plus intime.",
-        "textFrench": "Fête de la Circoncision (Jour de l'An). Chœur d'ouverture « Prosternez-vous avec actions de grâce, avec louanges ». Méditation sur le Nom de Jésus (Luc 2, 21). Comprend l'aria de soprano avec écho « Insuffle, mon Sauveur, insuffle ton Nom » et l'aria de ténor « Je ne veux vivre que pour ton honneur ». Couleur instrumentale des cors, plus intime."
+        "number": "III — 25",
+        "type": "Récitatif",
+        "voice": "Évangéliste",
+        "scoring": "continuo",
+        "textGerman": "Und da die Engel von ihnen gen Himmel fuhren, sprachen die Hirten untereinander:",
+        "textFrench": "Et lorsque les anges les eurent quittés pour le ciel, les bergers se dirent l'un à l'autre :"
       },
       {
-        "number": "V — 43 à 53",
-        "type": "Cinquième partie (résumé)",
-        "voice": "—",
+        "number": "III — 26",
+        "type": "Chœur (turba des bergers)",
+        "voice": "SATB",
+        "scoring": "flûtes, hautbois d'amore, cordes, continuo",
+        "textGerman": "Lasset uns nun gehen gen Bethlehem und die Geschichte sehen, die da geschehen ist, die uns der Herr kundgetan hat.",
+        "textFrench": "Allons jusqu'à Bethléem et voyons ce qui est arrivé, ce que le Seigneur nous a fait connaître."
+      },
+      {
+        "number": "III — 27",
+        "type": "Récitatif",
+        "voice": "Basse",
+        "scoring": "flûtes, continuo",
+        "textGerman": "Er hat sein Volk getröst't,\ner hat sein Israel erlöst,\ndie Hülf aus Zion hergesendet\nund unser Leid geendet.\nSeht, Hirten, dies hat er getan;\ngeht, dieses trefft ihr an!",
+        "textFrench": "Il a consolé son peuple,\nil a racheté son Israël,\nil a envoyé de Sion le secours\net mis fin à notre détresse.\nVoyez, bergers, voilà ce qu'il a fait ;\nallez, vous l'y trouverez !"
+      },
+      {
+        "number": "III — 28",
+        "type": "Choral",
+        "voice": "SATB",
+        "scoring": "flûtes, hautbois, cordes, continuo",
+        "textGerman": "Dies hat er alles uns getan,\nsein groß Lieb zu zeigen an.\nDes freu sich alle Christenheit\nund dank ihm des in Ewigkeit.\nKyrieleis!",
+        "textFrench": "Tout cela il l'a fait pour nous,\npour manifester son grand amour.\nQue toute la chrétienté s'en réjouisse\net l'en remercie pour l'éternité.\nKyrie eleison !"
+      },
+      {
+        "number": "III — 29",
+        "type": "Duo",
+        "voice": "Soprano, Basse",
+        "scoring": "2 hautbois d'amore, continuo",
+        "textGerman": "Herr, dein Mitleid, dein Erbarmen\ntröstet uns und macht uns frei.\nDeine holde Gunst und Liebe,\ndeine wundersamen Triebe\nmachen deine Vatertreu\nwieder neu.",
+        "textFrench": "Seigneur, ta compassion, ta miséricorde\nnous consolent et nous libèrent.\nTa tendre faveur et ton amour,\ntes élans merveilleux\nrenouvellent à nouveau\nta fidélité paternelle."
+      },
+      {
+        "number": "III — 30",
+        "type": "Récitatif",
+        "voice": "Évangéliste",
+        "scoring": "continuo",
+        "textGerman": "Und sie kamen eilend und funden beide, Mariam und Joseph, dazu das Kind in der Krippen liegen. Da sie es aber gesehen hatten, breiteten sie das Wort aus, welches zu ihnen von diesem Kinde gesaget war. Und alle, vor die es kam, wunderten sich der Rede, die ihnen die Hirten gesaget hatten. Maria aber behielt alle diese Worte und bewegete sie in ihrem Herzen.",
+        "textFrench": "Et ils s'en allèrent en hâte, et trouvèrent Marie et Joseph, et l'enfant couché dans la crèche. Après l'avoir vu, ils firent connaître la parole qui leur avait été dite au sujet de cet enfant. Tous ceux qui l'entendirent furent dans l'étonnement de ce que leur disaient les bergers. Mais Marie gardait toutes ces choses et les méditait dans son cœur."
+      },
+      {
+        "number": "III — 31",
+        "type": "Aria",
+        "voice": "Alto",
+        "scoring": "violon solo, continuo",
+        "textGerman": "Schließe, mein Herze, dies selige Wunder\nfest in deinem Glauben ein!\nLasse dies Wunder, die göttlichen Werke,\nimmer zur Stärke\ndeines schwachen Glaubens sein!",
+        "textFrench": "Enferme, mon cœur, ce bienheureux miracle\nfermement dans ta foi !\nQue ce miracle, ces œuvres divines,\nsoient toujours la force\nde ta foi chancelante !"
+      },
+      {
+        "number": "III — 32",
+        "type": "Récitatif",
+        "voice": "Alto",
+        "scoring": "flûtes, continuo",
+        "textGerman": "Ja, ja, mein Herz soll es bewahren,\nwas es an dieser holden Zeit\nzu seiner Seligkeit\nfür sicheren Beweis erfahren.",
+        "textFrench": "Oui, oui, mon cœur le gardera,\nce qu'en ce temps béni\nil a reçu, pour sa félicité,\ncomme preuve assurée."
+      },
+      {
+        "number": "III — 33",
+        "type": "Choral",
+        "voice": "SATB",
+        "scoring": "flûtes, hautbois, cordes, continuo",
+        "textGerman": "Ich will dich mit Fleiß bewahren,\nich will dir\nleben hier,\ndir will ich abfahren,\nmit dir will ich endlich schweben\nvoller Freud,\nohne Zeit,\ndort im andern Leben.",
+        "textFrench": "Je veux te garder avec zèle,\nje veux vivre\nici pour toi,\nvers toi je veux partir,\navec toi je veux enfin m'élever\npleine de joie,\nhors du temps,\nlà-bas dans l'autre vie."
+      },
+      {
+        "number": "III — 34",
+        "type": "Récitatif",
+        "voice": "Évangéliste",
+        "scoring": "continuo",
+        "textGerman": "Und die Hirten kehrten wieder um, preiseten und lobten Gott um alles, das sie gesehen und gehöret hatten, wie denn zu ihnen gesaget war.",
+        "textFrench": "Et les bergers s'en retournèrent, glorifiant et louant Dieu pour tout ce qu'ils avaient vu et entendu, conformément à ce qui leur avait été annoncé."
+      },
+      {
+        "number": "III — 35",
+        "type": "Choral",
+        "voice": "SATB",
+        "scoring": "flûtes, hautbois, cordes, continuo",
+        "textGerman": "Seid froh dieweil,\ndass euer Heil\nist hie ein Gott und auch ein Mensch geboren,\nder, welcher ist\nder Herr und Christ\nin Davids Stadt, von vielen auserkoren.",
+        "textFrench": "Réjouissez-vous,\ncar votre salut\nest ici né tout à la fois Dieu et homme,\ncelui qui est\nle Seigneur et le Christ\ndans la cité de David, élu parmi tant d'autres."
+      },
+      {
+        "number": "IV — 36",
+        "type": "Chœur",
+        "voice": "SATB",
+        "scoring": "2 cors, 2 hautbois, cordes, continuo",
+        "textGerman": "Fallt mit Danken, fallt mit Loben\nvor des Höchsten Gnadenthron!\nGottes Sohn\nwill der Erden\nHeiland und Erlöser werden,\nGottes Sohn\ndämpft der Feinde Wut und Toben.",
+        "textFrench": "Prosternez-vous en rendant grâce, prosternez-vous en louanges\ndevant le trône de grâce du Très-Haut !\nLe Fils de Dieu\nveut devenir\nle Sauveur et le Rédempteur de la terre,\nle Fils de Dieu\napaise la rage et la fureur des ennemis."
+      },
+      {
+        "number": "IV — 37",
+        "type": "Récitatif",
+        "voice": "Évangéliste",
+        "scoring": "continuo",
+        "textGerman": "Und da acht Tage um waren, dass das Kind beschnitten würde, da ward sein Name genennet Jesus, welcher genennet war von dem Engel, ehe denn er im Mutterleibe empfangen ward.",
+        "textFrench": "Et lorsque huit jours furent accomplis pour que l'enfant fût circoncis, on lui donna le nom de Jésus, nom qui lui avait été donné par l'ange avant qu'il fût conçu dans le sein maternel."
+      },
+      {
+        "number": "IV — 38",
+        "type": "Récitatif et arioso (avec choral interpolé)",
+        "voice": "Basse, Soprano",
+        "scoring": "cordes, continuo",
+        "textGerman": "Basse : Immanuel, o süßes Wort!\nMein Jesus heißt mein Hort,\nmein Jesus heißt mein Leben.\nMein Jesus hat sich mir ergeben,\nmein Jesus soll mir immerfort\nvor meinen Augen schweben.\nMein Jesus heißet meine Lust,\nmein Jesus labet Herz und Brust.\n(Soprano, choral) : Jesu, du mein liebstes Leben,\nmeiner Seelen Bräutigam,\nder du dich für mich gegeben\nan des bittern Kreuzes Stamm!\nBasse : Komm! ich will dich mit Lust umfassen,\nmein Herze soll dich nimmer lassen,\nach! so nimm mich zu dir!\n(Soprano, choral) : Auch in dem Sterben sollst du mir\ndas Allerliebste sein;\nin Not, Gefahr und Ungemach\nseh ich dir sehnlichst nach.",
+        "textFrench": "Basse : Emmanuel, ô doux mot !\nMon Jésus est mon refuge,\nmon Jésus est ma vie.\nMon Jésus s'est livré à moi,\nmon Jésus doit sans cesse\nflotter devant mes yeux.\nMon Jésus est ma joie,\nmon Jésus réconforte mon cœur et mon sein.\n(Soprano, choral) : Jésus, toi ma vie la plus chère,\népoux de mon âme,\ntoi qui t'es livré pour moi\nsur le bois amer de la croix !\nBasse : Viens ! je veux t'étreindre avec joie,\nmon cœur ne te quittera jamais,\nah ! prends-moi auprès de toi !\n(Soprano, choral) : Même dans la mort, tu dois être\npour moi le bien le plus cher ;\ndans la détresse, le péril et l'épreuve,\nvers toi je tends ardemment le regard."
+      },
+      {
+        "number": "IV — 39",
+        "type": "Aria avec écho",
+        "voice": "Soprano (avec écho de soprano)",
+        "scoring": "hautbois solo, continuo",
+        "textGerman": "Flößt, mein Heiland, flößt dein Namen\nauch den allerkleinsten Samen\njenes strengen Schreckens ein?\nNein, du sagst ja selber Nein. (Echo: Nein!)\nSollt ich nun das Sterben scheuen?\nNein, dein süßes Wort ist da!\nOder sollt ich mich erfreuen?\nJa, du Heiland sprichst selbst Ja. (Echo: Ja!)",
+        "textFrench": "Ton Nom, mon Sauveur, instille-t-il\nmême la plus petite semence\nde cette terreur sévère ?\nNon, tu dis toi-même non. (Écho : Non !)\nDois-je donc craindre la mort ?\nNon, ta douce parole est là !\nOu dois-je me réjouir ?\nOui, toi Sauveur dis toi-même Oui. (Écho : Oui !)"
+      },
+      {
+        "number": "IV — 40",
+        "type": "Récitatif avec arioso choral",
+        "voice": "Basse, Soprano",
+        "scoring": "cordes, continuo",
+        "textGerman": "Basse : Wohlan, dein Name soll allein\nin meinem Herzen sein!\nSo will ich dich entzücket nennen,\nwenn Brust und Herz zu dir vor Liebe brennen.\nDoch, Liebster, sage mir:\nwie rühm ich dich, wie dank ich dir?\n(Soprano) : Jesu, meine Freud und Wonne,\nmeine Hoffnung, Schatz und Teil,\nmein Erlösung, Schmuck und Heil,\nHirt und König, Licht und Sonne,\nach! wie soll ich würdiglich,\nmein Herr Jesu, preisen dich?",
+        "textFrench": "Basse : Eh bien, que ton seul Nom\nsoit dans mon cœur !\nAinsi te nommerai-je avec ravissement,\nlorsque mon sein et mon cœur brûlent d'amour pour toi.\nMais, bien-aimé, dis-moi :\ncomment te glorifier, comment te rendre grâce ?\n(Soprano) : Jésus, ma joie et mon bonheur,\nmon espérance, mon trésor et mon partage,\nma rédemption, ma parure et mon salut,\npasteur et roi, lumière et soleil,\nah ! comment dignement,\nmon Seigneur Jésus, te louer ?"
+      },
+      {
+        "number": "IV — 41",
+        "type": "Aria",
+        "voice": "Ténor",
+        "scoring": "2 violons, continuo",
+        "textGerman": "Ich will nur dir zu Ehren leben,\nmein Heiland, gib mir Kraft und Mut,\ndass es mein Herz recht eifrig tut!\nStärke mich,\ndeine Gnade würdiglich\nund mit Danken zu erheben!",
+        "textFrench": "Je ne veux vivre que pour ton honneur,\nmon Sauveur, donne-moi force et courage,\nafin que mon cœur le fasse avec ferveur !\nFortifie-moi\npour exalter dignement\nta grâce avec actions de grâce !"
+      },
+      {
+        "number": "IV — 42",
+        "type": "Choral",
+        "voice": "SATB",
+        "scoring": "2 cors, 2 hautbois, cordes, continuo",
+        "textGerman": "Jesus richte mein Beginnen,\nJesus bleibe stets bei mir,\nJesus zäume mir die Sinnen,\nJesus sei nur mein Begier,\nJesus sei mir in Gedanken,\nJesu, lasse mich nicht wanken!",
+        "textFrench": "Que Jésus dirige mes entreprises,\nque Jésus demeure toujours auprès de moi,\nque Jésus bride mes sens,\nque Jésus soit mon seul désir,\nque Jésus soit dans mes pensées,\nJésus, ne me laisse pas chanceler !"
+      },
+      {
+        "number": "V — 43",
+        "type": "Chœur",
+        "voice": "SATB",
+        "scoring": "2 hautbois d'amore, cordes, continuo",
+        "textGerman": "Ehre sei dir, Gott, gesungen,\ndir sei Lob und Dank bereit.\nDich erhebet alle Welt,\nweil dir unser Wohl gefällt,\nweil anheut\nunser aller Wunsch gelungen,\nweil uns dein Segen so herrlich erfreut.",
+        "textFrench": "Que la gloire te soit chantée, ô Dieu,\nqu'à toi soient louange et grâce.\nLe monde entier t'exalte,\ncar tu te plais à notre bien,\ncar aujourd'hui\nle vœu de nous tous est exaucé,\ncar ta bénédiction nous réjouit si magnifiquement."
+      },
+      {
+        "number": "V — 44",
+        "type": "Récitatif",
+        "voice": "Évangéliste",
+        "scoring": "continuo",
+        "textGerman": "Da Jesus geboren war zu Bethlehem im jüdischen Lande, zur Zeit des Königes Herodis, siehe, da kamen die Weisen vom Morgenlande gen Jerusalem und sprachen:",
+        "textFrench": "Jésus étant né à Bethléem en Judée, au temps du roi Hérode, voici, des mages d'Orient arrivèrent à Jérusalem, et dirent :"
+      },
+      {
+        "number": "V — 45",
+        "type": "Chœur (Mages) et récitatif",
+        "voice": "SATB, Alto",
+        "scoring": "2 hautbois d'amore, cordes, continuo",
+        "textGerman": "Chor : Wo ist der neugeborne König der Jüden? Wir haben seinen Stern gesehen im Morgenlande und sind kommen, ihn anzubeten.\nAlto : Sucht ihn in meiner Brust, hier wohnt er, mir und ihm zur Lust!\nChor : Wir haben seinen Stern gesehen im Morgenlande und sind kommen, ihn anzubeten.",
+        "textFrench": "Chœur : Où est le roi des Juifs qui vient de naître ? Nous avons vu son étoile en Orient et nous sommes venus l'adorer.\nAlto : Cherchez-le dans ma poitrine, c'est ici qu'il demeure, pour ma joie et la sienne !\nChœur : Nous avons vu son étoile en Orient et nous sommes venus l'adorer."
+      },
+      {
+        "number": "V — 46",
+        "type": "Choral",
+        "voice": "SATB",
+        "scoring": "2 hautbois d'amore, cordes, continuo",
+        "textGerman": "Dein Glanz all Finsternis verzehrt,\ndie trübe Nacht in Licht verkehrt.\nLeit uns auf deinen Wegen,\ndass dein Gesicht\nund herrlichs Licht\nwir ewig schauen mögen!",
+        "textFrench": "Ton éclat consume toutes les ténèbres,\nchange la nuit obscure en lumière.\nConduis-nous sur tes voies,\nafin que ton visage\net ta glorieuse lumière,\nnous les contemplions à jamais !"
+      },
+      {
+        "number": "V — 47",
+        "type": "Aria",
+        "voice": "Basse",
+        "scoring": "hautbois d'amore, orgue obbligato, continuo",
+        "textGerman": "Erleucht auch meine finstre Sinnen,\nerleuchte mein Herze\ndurch der Strahlen klaren Schein!\nDein Wort soll mir die hellste Kerze\nin allen meinen Werken sein;\ndies lässet die Seele nichts Böses beginnen.",
+        "textFrench": "Éclaire aussi mes pensées obscures,\nillumine mon cœur\npar le rayonnement clair de ta lumière !\nQue ta parole soit pour moi la plus brillante chandelle\ndans toutes mes œuvres ;\ncela empêche l'âme d'entreprendre aucun mal."
+      },
+      {
+        "number": "V — 48",
+        "type": "Récitatif",
+        "voice": "Évangéliste",
+        "scoring": "continuo",
+        "textGerman": "Da das der König Herodes hörte, erschrak er und mit ihm das ganze Jerusalem.",
+        "textFrench": "Lorsque le roi Hérode entendit cela, il fut troublé, et tout Jérusalem avec lui."
+      },
+      {
+        "number": "V — 49",
+        "type": "Récitatif",
+        "voice": "Alto",
+        "scoring": "cordes, continuo",
+        "textGerman": "Warum wollt ihr erschrecken?\nKann meines Jesu Gegenwart euch solche Furcht erwecken?\nO! solltet ihr euch nicht\nvielmehr darüber freuen,\nweil er dadurch verspricht,\nder Menschen Wohlfahrt zu verneuen.",
+        "textFrench": "Pourquoi vouloir vous effrayer ?\nLa présence de mon Jésus peut-elle susciter en vous une telle crainte ?\nOh ! ne devriez-vous pas\nbien plutôt vous en réjouir,\npuisque par là il promet\nde renouveler le bonheur des hommes ?"
+      },
+      {
+        "number": "V — 50",
+        "type": "Récitatif",
+        "voice": "Évangéliste",
+        "scoring": "continuo",
+        "textGerman": "Und ließ versammeln alle Hohepriester und Schriftgelehrten unter dem Volk und erforschete von ihnen, wo Christus sollte geboren werden. Und sie sagten ihm: Zu Bethlehem im jüdischen Lande; denn also stehet geschrieben durch den Propheten: Und du Bethlehem im jüdischen Lande bist mitnichten die kleinest unter den Fürsten Juda; denn aus dir soll mir kommen der Herzog, der über mein Volk Israel ein Herr sei.",
+        "textFrench": "Et il assembla tous les principaux sacrificateurs et les scribes du peuple, et il s'informa auprès d'eux du lieu où le Christ devait naître. Et ils lui dirent : À Bethléem en Judée ; car il est écrit par le prophète : Et toi, Bethléem, terre de Juda, tu n'es certes pas la moindre parmi les principales villes de Juda, car de toi sortira un chef qui paîtra Israël, mon peuple."
+      },
+      {
+        "number": "V — 51",
+        "type": "Terzetto",
+        "voice": "Soprano, Alto, Ténor",
+        "scoring": "violon solo, continuo",
+        "textGerman": "Soprano, Ténor : Ach, wenn wird die Zeit erscheinen?\nAch! Wenn kömmt der Trost der Seinen?\nAlto : Schweigt, er ist schon würklich hier!\nSoprano, Ténor : Jesu, ach so komm zu mir!",
+        "textFrench": "Soprano, Ténor : Ah, quand viendra ce temps ?\nAh ! Quand viendra la consolation des siens ?\nAlto : Taisez-vous, il est déjà vraiment ici !\nSoprano, Ténor : Jésus, ah, viens donc à moi !"
+      },
+      {
+        "number": "V — 52",
+        "type": "Récitatif",
+        "voice": "Alto",
+        "scoring": "continuo",
+        "textGerman": "Mein Liebster herrschet schon.\nEin Herz, das seine Herrschaft liebet\nund sich ihm ganz zu eigen gibet,\nist meines Jesu Thron.",
+        "textFrench": "Mon bien-aimé règne déjà.\nUn cœur qui aime sa souveraineté\net se donne tout entier à lui,\nvoilà le trône de mon Jésus."
+      },
+      {
+        "number": "V — 53",
+        "type": "Choral",
+        "voice": "SATB",
+        "scoring": "2 hautbois d'amore, cordes, continuo",
+        "textGerman": "Zwar ist solche Herzensstube\nwohl kein schöner Fürstensaal,\nsondern eine finstre Grube;\ndoch, sobald dein Gnadenstrahl\nin denselben nur wird blinken,\nwird es voller Sonnen dünken.",
+        "textFrench": "Certes, cette chambre du cœur\nn'est pas une belle salle princière,\nmais une fosse obscure ;\npourtant, dès que ton rayon de grâce\ns'y mettra à briller,\nelle paraîtra pleine de soleils."
+      },
+      {
+        "number": "VI — 54",
+        "type": "Chœur",
+        "voice": "SATB",
+        "scoring": "3 trompettes, timbales, 2 hautbois, cordes, continuo",
+        "textGerman": "Herr, wenn die stolzen Feinde schnauben,\nso gib, dass wir im festen Glauben\nnach deiner Macht und Hülfe sehn!\nWir wollen dir allein vertrauen,\nso können wir den scharfen Klauen\ndes Feindes unversehrt entgehn.",
+        "textFrench": "Seigneur, quand les ennemis orgueilleux frémissent,\nfais que, dans une foi inébranlable,\nnous regardions vers ta puissance et ton secours !\nNous voulons nous fier à toi seul,\nainsi pourrons-nous échapper, indemnes,\naux serres acérées de l'ennemi."
+      },
+      {
+        "number": "VI — 55",
+        "type": "Récitatif",
+        "voice": "Évangéliste, Hérode (Basse)",
+        "scoring": "continuo",
+        "textGerman": "Evangelist : Da berief Herodes die Weisen heimlich und erlernet mit Fleiß von ihnen, wenn der Stern erschienen wäre? und weiset sie gen Bethlehem und sprach:\nHerodes : Ziehet hin und forschet fleißig nach dem Kindlein, und wenn ihr's findet, sagt mir's wieder, dass ich auch komme und es anbete.",
+        "textFrench": "L'Évangéliste : Alors Hérode fit appeler en secret les mages et s'enquit avec soin auprès d'eux du moment où l'étoile était apparue. Il les envoya à Bethléem en disant :\nHérode : Allez, et prenez des informations exactes sur le petit enfant ; quand vous l'aurez trouvé, faites-le-moi savoir, afin que j'aille aussi moi-même l'adorer."
+      },
+      {
+        "number": "VI — 56",
+        "type": "Récitatif",
+        "voice": "Soprano",
+        "scoring": "cordes, continuo",
+        "textGerman": "Du Falscher, suche nur den Herrn zu fällen,\nnimm alle falsche List,\ndem Heiland nachzustellen;\nder, dessen Kraft kein Mensch ermisst,\nbleibt doch in sichrer Hand.\nDein Herz, dein falsches Herz ist schon,\nnebst aller seiner List, des Höchsten Sohn,\nden du zu stürzen suchst, sehr wohl bekannt.",
+        "textFrench": "Toi, perfide, cherche donc à abattre le Seigneur,\nemploie toutes les fausses ruses\npour tendre des pièges au Sauveur ;\ncelui dont aucun homme ne mesure la puissance\nreste en mains sûres.\nTon cœur, ton cœur perfide,\nainsi que toutes ses ruses, sont déjà bien connus\ndu Fils du Très-Haut que tu cherches à abattre."
+      },
+      {
+        "number": "VI — 57",
+        "type": "Aria",
+        "voice": "Soprano",
         "scoring": "hautbois d'amore, cordes, continuo",
-        "textGerman": "Dimanche après le Jour de l'An. Chœur d'ouverture « Ehre sei dir, Gott, gesungen ». Arrivée des mages à Jérusalem, trouble d'Hérode (Matthieu 2, 1-6). Comprend le terzetto Soprano/Alto/Ténor « Ach, wann wird die Zeit erscheinen ? » et l'aria de basse « Erleucht auch meine finstre Sinnen ».",
-        "textFrench": "Dimanche après le Jour de l'An. Chœur d'ouverture « Que la gloire te soit chantée, ô Dieu ». Arrivée des mages à Jérusalem, trouble d'Hérode (Matthieu 2, 1-6). Comprend le terzetto Soprano/Alto/Ténor « Ah, quand viendra le temps ? » et l'aria de basse « Éclaire aussi mes sombres pensées »."
+        "textGerman": "Nur ein Wink von seinen Händen\nstürzt ohnmächtger Menschen Macht.\nHier wird alle Kraft verlacht!\nSpricht der Höchste nur ein Wort,\nseiner Feinde Stolz zu enden,\no so müssen sich sofort\nsterblicher Gedanken wenden.",
+        "textFrench": "Un seul signe de ses mains\nrenverse la puissance des hommes impuissants.\nToute force est ici tournée en dérision !\nQue le Très-Haut prononce seulement une parole\npour mettre fin à l'orgueil de ses ennemis,\naussitôt les pensées des mortels\ndoivent se détourner."
       },
       {
-        "number": "VI — 54 à 64",
-        "type": "Sixième partie (résumé)",
-        "voice": "—",
-        "scoring": "3 trompettes, timbales, hautbois, cordes, continuo",
-        "textGerman": "Épiphanie. Chœur d'ouverture « Herr, wenn die stolzen Feinde schnauben ». Adoration des mages, songe et départ par un autre chemin (Matthieu 2, 7-12). Comprend l'aria de ténor « Nun mögt ihr stolzen Feinde schrecken » et l'aria de soprano « Nur ein Wink von seinen Händen ». Choral final « Nun seid ihr wohl gerochen » sur la mélodie de « O Haupt voll Blut und Wunden », couronné de trompettes triomphales.",
-        "textFrench": "Épiphanie. Chœur d'ouverture « Seigneur, quand les ennemis orgueilleux frémissent ». Adoration des mages, songe et départ par un autre chemin (Matthieu 2, 7-12). Comprend l'aria de ténor « Maintenant vous pouvez trembler, ennemis orgueilleux » et l'aria de soprano « Un seul signe de ses mains ». Choral final « Maintenant vous êtes bien vengés » sur la mélodie de « Ô tête couverte de sang et de plaies », couronné de trompettes triomphales."
+        "number": "VI — 58",
+        "type": "Récitatif",
+        "voice": "Évangéliste",
+        "scoring": "continuo",
+        "textGerman": "Als sie nun den König gehöret hatten, zogen sie hin. Und siehe, der Stern, den sie im Morgenlande gesehen hatten, ging vor ihnen hin, bis dass er kam und stund oben über, da das Kindlein war. Da sie den Stern sahen, wurden sie hocherfreut und gingen in das Haus und funden das Kindlein mit Maria, seiner Mutter, und fielen nieder und beteten es an und täten ihre Schätze auf und schenkten ihm Gold, Weihrauch und Myrrhen.",
+        "textFrench": "Après avoir entendu le roi, ils partirent. Et voici, l'étoile qu'ils avaient vue en Orient marchait devant eux jusqu'à ce qu'arrivée au-dessus du lieu où était le petit enfant, elle s'arrêtât. Quand ils virent l'étoile, ils furent saisis d'une très grande joie. Ils entrèrent dans la maison, virent le petit enfant avec Marie, sa mère, se prosternèrent et l'adorèrent ; et ils ouvrirent leurs trésors et lui offrirent en présent de l'or, de l'encens et de la myrrhe."
+      },
+      {
+        "number": "VI — 59",
+        "type": "Choral",
+        "voice": "SATB",
+        "scoring": "2 hautbois, cordes, continuo",
+        "textGerman": "Ich steh an deiner Krippen hier,\no Jesulein, mein Leben;\nich komme, bring und schenke dir,\nwas du mir hast gegeben.\nNimm hin! es ist mein Geist und Sinn,\nHerz, Seel und Mut, nimm alles hin\nund lass dir's wohlgefallen!",
+        "textFrench": "Je me tiens ici devant ta crèche,\nô petit Jésus, ma vie ;\nje viens, je t'apporte et te donne\nce que toi-même tu m'as donné.\nReçois ! C'est mon esprit et mon âme,\nmon cœur, mon âme et mon courage, reçois tout\net que cela te plaise !"
+      },
+      {
+        "number": "VI — 60",
+        "type": "Récitatif",
+        "voice": "Évangéliste",
+        "scoring": "continuo",
+        "textGerman": "Und Gott befahl ihnen im Traum, dass sie sich nicht sollten wieder zu Herodes lenken, und zogen durch einen andern Weg wieder in ihr Land.",
+        "textFrench": "Et Dieu, dans un songe, leur ordonna de ne pas retourner vers Hérode ; et ils regagnèrent leur pays par un autre chemin."
+      },
+      {
+        "number": "VI — 61",
+        "type": "Récitatif",
+        "voice": "Ténor",
+        "scoring": "2 hautbois d'amore, continuo",
+        "textGerman": "So geht! Genug, mein Schatz geht nicht von hier,\ner bleibet da bei mir,\nich will ihn auch nicht von mir lassen.\nSein Arm wird mich aus Lieb\nmit sanftmutsvollem Trieb\nund größter Zärtlichkeit umfassen;\ner soll mein Bräutigam verbleiben,\nich will ihm Brust und Herz verschreiben.\nIch weiß gewiss, er liebet mich,\nmein Herz liebt ihn auch inniglich\nund wird ihn ewig ehren.\nWas könnte mich nun für ein Feind\nbei solchem Glück versehren!\nDu, Jesu, bist und bleibst mein Freund;\nund werd ich ängstlich zu dir flehn:\nHerr, hilf! so lass mich Hülfe sehn!",
+        "textFrench": "Allez donc ! Il suffit : mon trésor ne s'en va pas d'ici,\nil reste là près de moi,\nje ne le laisserai pas non plus me quitter.\nSon bras m'étreindra par amour,\nd'un élan plein de douceur\net de la plus grande tendresse ;\nil restera mon époux,\nje lui consacrerai mon sein et mon cœur.\nJe sais avec certitude qu'il m'aime,\nmon cœur l'aime aussi profondément\net l'honorera éternellement.\nQuel ennemi pourrait désormais\nme nuire dans un tel bonheur !\nToi, Jésus, tu es et restes mon ami ;\net si je t'implore avec angoisse :\nSeigneur, secours-moi ! laisse-moi voir ton secours !"
+      },
+      {
+        "number": "VI — 62",
+        "type": "Aria",
+        "voice": "Ténor",
+        "scoring": "2 hautbois d'amore, continuo",
+        "textGerman": "Nun mögt ihr stolzen Feinde schrecken;\nwas könnt ihr mir für Furcht erwecken?\nMein Schatz, mein Hort ist hier bei mir.\nIhr mögt euch noch so grimmig stellen,\ndroht nur, mich ganz und gar zu fällen,\ndoch seht! mein Heiland wohnet hier.",
+        "textFrench": "Maintenant, vous pouvez trembler, ennemis orgueilleux ;\nquelle crainte pouvez-vous éveiller en moi ?\nMon trésor, mon refuge est ici près de moi.\nVous pouvez encore vous montrer aussi cruels,\nmenacer de m'abattre tout à fait :\nvoyez ! mon Sauveur habite ici."
+      },
+      {
+        "number": "VI — 63",
+        "type": "Récitatif (quatuor)",
+        "voice": "Soprano, Alto, Ténor, Basse",
+        "scoring": "continuo",
+        "textGerman": "Was will der Höllen Schrecken nun?\nWas will uns Welt und Sünde tun,\nda wir in Jesu Händen ruhn?",
+        "textFrench": "Que veut maintenant la terreur des enfers ?\nQue peuvent nous faire le monde et le péché,\npuisque nous reposons entre les mains de Jésus ?"
+      },
+      {
+        "number": "VI — 64",
+        "type": "Choral",
+        "voice": "SATB",
+        "scoring": "3 trompettes, timbales, 2 hautbois, cordes, continuo",
+        "textGerman": "Nun seid ihr wohl gerochen\nan eurer Feinde Schar,\ndenn Christus hat zerbrochen,\nwas euch zuwider war.\nTod, Teufel, Sünd und Hölle\nsind ganz und gar geschwächt;\nbei Gott hat seine Stelle\ndas menschliche Geschlecht.",
+        "textFrench": "Maintenant vous êtes bien vengés\nde la troupe de vos ennemis,\ncar Christ a brisé\ntout ce qui vous était contraire.\nMort, diable, péché et enfer\nsont entièrement affaiblis ;\nauprès de Dieu, le genre humain\na trouvé sa place."
       }
     ]
   }
